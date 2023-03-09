@@ -1,0 +1,200 @@
+{
+  "itinerary": null,
+  "dateAvailabilityData": {
+    "outboundStartDate": "2023-03-02",
+    "outboundEndDate": "2025-08-08",
+    "inboundStartDate": "2023-03-02",
+    "inboundEndDate": "2025-08-08",
+    "displayOutboundLeg": true,
+    "outboundAvailabilityData": [
+      {
+        "displayDate": "2023-03-29",
+        "selected": false,
+        "available": false,
+        "currencyAppendedPrice": null
+      },
+      {
+        "displayDate": "2023-03-30",
+        "selected": false,
+        "available": false,
+        "currencyAppendedPrice": null
+      },
+      {
+        "displayDate": "2023-03-31",
+        "selected": false,
+        "available": false,
+        "currencyAppendedPrice": null
+      },
+      {
+        "displayDate": "2023-04-01",
+        "selected": true,
+        "available": false,
+        "currencyAppendedPrice": null
+      },
+      {
+        "displayDate": "2023-04-02",
+        "selected": false,
+        "available": false,
+        "currencyAppendedPrice": null
+      },
+      {
+        "displayDate": "2023-04-03",
+        "selected": false,
+        "available": false,
+        "currencyAppendedPrice": null
+      },
+      {
+        "displayDate": "2023-04-04",
+        "selected": false,
+        "available": false,
+        "currencyAppendedPrice": null
+      }
+    ],
+    "inboundAvailabilityData": []
+  },
+  "originalBookingDetails": null,
+  "flightViewData": [],
+  "seasonEndDate": null,
+  "flightSearchCriteria": {
+    "searchType": null,
+    "holidayType": null,
+    "departureAirportCode": ["BRU"],
+    "arrivalAirportCode": ["CFU"],
+    "departureDate": "2023-04-01",
+    "returnDate": null,
+    "cycleDates": null,
+    "duration": 0,
+    "market": null,
+    "promoCode": null,
+    "adultCount": 1,
+    "childCount": 0,
+    "infantCount": 0,
+    "childages": [],
+    "priceType": null,
+    "packageCode": null,
+    "packageType": null,
+    "infantAges": [],
+    "flightsonlyType": 4,
+    "seasonEnddate": "2025-03-31",
+    "endReturnDate": null,
+    "startReturnDate": null,
+    "days": 0,
+    "month": 0,
+    "year": 0,
+    "flexible": false,
+    "outboundSlots": null,
+    "searchCriteriaType": "pricegrid",
+    "startDuration": 0,
+    "endDuration": 0,
+    "startNumber": 0,
+    "endNumber": 0,
+    "responseType": null,
+    "maxPrice": null,
+    "pageCount": null,
+    "crossSell": false,
+    "crossSellAirportCode": null,
+    "selDepDate": null,
+    "selArrDate": null,
+    "tabId": "BRU",
+    "durationFilter": null,
+    "backIdentity": null,
+    "backDealsIdentity": null,
+    "agentNo": "120102",
+    "agentNum": "",
+    "agentName": null,
+    "when": null,
+    "first": 0,
+    "choiceSearch": true,
+    "nearByAirportSelected": true,
+    "nearByArrAiport": [],
+    "nearByDepAiport": ["LIL", "LGG", "OST", "ANR", "CRL"],
+    "hashValue": null,
+    "searchRequestType": null,
+    "stUpsell": null,
+    "stUpsellVal": null,
+    "allChildrenCount": 0,
+    "oneWay": true,
+    "newchildages": []
+  },
+  "dreamLiner": null,
+  "depAirportData": [
+    {
+      "id": "BRU",
+      "name": "Brussel",
+      "synonym": null,
+      "children": null,
+      "group": ["PBE"],
+      "available": false,
+      "countryCode": "BEL",
+      "brands": [
+        {
+          "code": "TUIFLY_BE",
+          "type": "BrandType"
+        },
+        {
+          "code": "TUI_BE",
+          "type": "BrandType"
+        },
+        {
+          "code": "TUI_NL",
+          "type": "BrandType"
+        },
+        {
+          "code": "TUIFLY_MA",
+          "type": "BrandType"
+        },
+        {
+          "code": "VIP_BE",
+          "type": "BrandType"
+        }
+      ],
+      "countryName": null,
+      "routeAvailable": false,
+      "overseas": false
+    }
+  ],
+  "arrAirportData": [
+    {
+      "id": "CFU",
+      "name": "Corfu",
+      "synonym": null,
+      "children": null,
+      "group": [],
+      "available": false,
+      "countryCode": "GRC",
+      "brands": [
+        {
+          "code": "TUIFLY_BE",
+          "type": "BrandType"
+        },
+        {
+          "code": "TUI_NL",
+          "type": "BrandType"
+        }
+      ],
+      "countryName": null,
+      "routeAvailable": false,
+      "overseas": false
+    }
+  ],
+  "tracsEndDate": null,
+  "totoalcount": null,
+  "itineraryList": null,
+  "flightDepPt": null,
+  "flightArrPt": null,
+  "outSlots": null,
+  "inSlots": null,
+  "price": null,
+  "pricePerPerson": null,
+  "itineraryCount": 0,
+  "searchType": null,
+  "crossSellAirportData": null,
+  "departureFlightsInfo": null,
+  "arrivalFLightsInfo": null,
+  "sessionTimeoutPage": null,
+  "sessionTimeerrorflag": false,
+  "budgetFilterFlag": true,
+  "durationFilters": null,
+  "pageCount": 0,
+  "searchResultsRequestData": null
+}
