@@ -1,0 +1,1682 @@
+Price,Date of departure,Available seats,Arrival country code,Arrival country name,Departure country code,Departure country name
+219.99,2023-04-02,10,FAO,Faro,BRU,Brussel
+91.99,2023-03-29,10,ALC,Alicante,BRU,Brussel
+97.99,2023-03-30,10,ALC,Alicante,BRU,Brussel
+159.99,2023-03-31,10,ALC,Alicante,BRU,Brussel
+169.99,2023-03-31,10,ALC,Alicante,BRU,Brussel
+269.99,2023-04-01,10,ALC,Alicante,BRU,Brussel
+179.99,2023-04-01,10,ALC,Alicante,BRU,Brussel
+209.99,2023-04-02,10,ALC,Alicante,BRU,Brussel
+159.99,2023-04-02,10,ALC,Alicante,BRU,Brussel
+169.99,2023-04-03,10,ALC,Alicante,BRU,Brussel
+194.99,2023-04-04,10,ALC,Alicante,BRU,Brussel
+149.99,2023-04-02,10,IBZ,Ibiza,BRU,Brussel
+134.99,2023-03-29,10,AGP,Malaga,BRU,Brussel
+139.99,2023-03-30,10,AGP,Malaga,BRU,Brussel
+174.99,2023-03-31,10,AGP,Malaga,BRU,Brussel
+329.99,2023-04-01,10,AGP,Malaga,BRU,Brussel
+259.99,2023-04-01,10,AGP,Malaga,BRU,Brussel
+199.99,2023-04-02,10,AGP,Malaga,BRU,Brussel
+194.99,2023-04-02,10,AGP,Malaga,BRU,Brussel
+214.99,2023-04-03,10,AGP,Malaga,BRU,Brussel
+169.99,2023-04-03,10,AGP,Malaga,BRU,Brussel
+154.99,2023-04-04,8,AGP,Malaga,BRU,Brussel
+149.99,2023-04-04,10,AGP,Malaga,BRU,Brussel
+149.99,2023-03-31,10,PMI,Palma de Mallorca,BRU,Brussel
+199.99,2023-04-02,10,PMI,Palma de Mallorca,BRU,Brussel
+154.99,2023-04-04,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-03-29,10,TFS,Tenerife,BRU,Brussel
+119.99,2023-03-30,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-03-31,10,TFS,Tenerife,BRU,Brussel
+169.99,2023-03-31,10,TFS,Tenerife,BRU,Brussel
+519.99,2023-04-01,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-04-01,10,TFS,Tenerife,BRU,Brussel
+259.99,2023-04-02,10,TFS,Tenerife,BRU,Brussel
+519.99,2023-04-03,10,TFS,Tenerife,BRU,Brussel
+369.99,2023-04-04,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-04-09,10,FAO,Faro,BRU,Brussel
+139.99,2023-04-05,10,ALC,Alicante,BRU,Brussel
+139.99,2023-04-05,10,ALC,Alicante,BRU,Brussel
+139.99,2023-04-06,10,ALC,Alicante,BRU,Brussel
+139.99,2023-04-06,10,ALC,Alicante,BRU,Brussel
+249.99,2023-04-07,9,ALC,Alicante,BRU,Brussel
+214.99,2023-04-07,10,ALC,Alicante,BRU,Brussel
+214.99,2023-04-08,10,ALC,Alicante,BRU,Brussel
+139.99,2023-04-08,10,ALC,Alicante,BRU,Brussel
+149.99,2023-04-09,10,ALC,Alicante,BRU,Brussel
+149.99,2023-04-09,10,ALC,Alicante,BRU,Brussel
+149.99,2023-04-10,10,ALC,Alicante,BRU,Brussel
+169.99,2023-04-11,10,ALC,Alicante,BRU,Brussel
+229.99,2023-04-06,10,IBZ,Ibiza,BRU,Brussel
+129.99,2023-04-09,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-04-05,10,AGP,Malaga,BRU,Brussel
+164.99,2023-04-06,10,AGP,Malaga,BRU,Brussel
+159.99,2023-04-06,10,AGP,Malaga,BRU,Brussel
+159.99,2023-04-07,10,AGP,Malaga,BRU,Brussel
+259.99,2023-04-08,10,AGP,Malaga,BRU,Brussel
+209.99,2023-04-08,10,AGP,Malaga,BRU,Brussel
+159.99,2023-04-09,10,AGP,Malaga,BRU,Brussel
+169.99,2023-04-09,10,AGP,Malaga,BRU,Brussel
+159.99,2023-04-10,10,AGP,Malaga,BRU,Brussel
+149.99,2023-04-10,10,AGP,Malaga,BRU,Brussel
+109.99,2023-04-11,10,AGP,Malaga,BRU,Brussel
+99.99,2023-04-11,10,AGP,Malaga,BRU,Brussel
+179.99,2023-04-06,10,PMI,Palma de Mallorca,BRU,Brussel
+309.99,2023-04-07,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-04-09,10,PMI,Palma de Mallorca,BRU,Brussel
+129.99,2023-04-10,10,PMI,Palma de Mallorca,BRU,Brussel
+114.99,2023-04-11,10,PMI,Palma de Mallorca,BRU,Brussel
+204.99,2023-04-05,13,TFS,Tenerife,BRU,Brussel
+214.99,2023-04-06,7,TFS,Tenerife,BRU,Brussel
+349.99,2023-04-07,10,TFS,Tenerife,BRU,Brussel
+549.99,2023-04-08,1,TFS,Tenerife,BRU,Brussel
+549.99,2023-04-08,3,TFS,Tenerife,BRU,Brussel
+379.99,2023-04-08,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-04-09,10,TFS,Tenerife,BRU,Brussel
+244.99,2023-04-10,10,TFS,Tenerife,BRU,Brussel
+169.99,2023-04-11,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-04-14,10,HER,Kreta-Heraklion,BRU,Brussel
+349.99,2023-04-16,5,HER,Kreta-Heraklion,BRU,Brussel
+194.99,2023-04-16,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-04-18,10,RHO,Rhodos,BRU,Brussel
+109.99,2023-04-16,10,FAO,Faro,BRU,Brussel
+95.99,2023-04-12,10,ALC,Alicante,BRU,Brussel
+93.99,2023-04-12,10,ALC,Alicante,BRU,Brussel
+99.99,2023-04-13,10,ALC,Alicante,BRU,Brussel
+93.99,2023-04-13,10,ALC,Alicante,BRU,Brussel
+119.99,2023-04-14,12,ALC,Alicante,BRU,Brussel
+99.99,2023-04-14,8,ALC,Alicante,BRU,Brussel
+174.99,2023-04-15,10,ALC,Alicante,BRU,Brussel
+104.99,2023-04-15,10,ALC,Alicante,BRU,Brussel
+114.99,2023-04-16,10,ALC,Alicante,BRU,Brussel
+109.99,2023-04-16,10,ALC,Alicante,BRU,Brussel
+119.99,2023-04-17,10,ALC,Alicante,BRU,Brussel
+149.99,2023-04-18,10,ALC,Alicante,BRU,Brussel
+99.99,2023-04-13,10,IBZ,Ibiza,BRU,Brussel
+114.99,2023-04-16,10,IBZ,Ibiza,BRU,Brussel
+97.99,2023-04-12,10,AGP,Malaga,BRU,Brussel
+97.99,2023-04-13,10,AGP,Malaga,BRU,Brussel
+95.99,2023-04-13,10,AGP,Malaga,BRU,Brussel
+99.99,2023-04-14,10,AGP,Malaga,BRU,Brussel
+109.99,2023-04-15,10,AGP,Malaga,BRU,Brussel
+104.99,2023-04-15,10,AGP,Malaga,BRU,Brussel
+114.99,2023-04-16,10,AGP,Malaga,BRU,Brussel
+109.99,2023-04-16,10,AGP,Malaga,BRU,Brussel
+174.99,2023-04-17,10,AGP,Malaga,BRU,Brussel
+99.99,2023-04-18,10,AGP,Malaga,BRU,Brussel
+79.99,2023-04-13,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-04-14,12,PMI,Palma de Mallorca,BRU,Brussel
+129.99,2023-04-16,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-04-17,10,PMI,Palma de Mallorca,BRU,Brussel
+95.99,2023-04-18,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-04-12,10,TFS,Tenerife,BRU,Brussel
+149.99,2023-04-13,10,TFS,Tenerife,BRU,Brussel
+269.99,2023-04-14,10,TFS,Tenerife,BRU,Brussel
+139.99,2023-04-14,10,TFS,Tenerife,BRU,Brussel
+249.99,2023-04-15,10,TFS,Tenerife,BRU,Brussel
+144.99,2023-04-15,10,TFS,Tenerife,BRU,Brussel
+134.99,2023-04-15,10,TFS,Tenerife,BRU,Brussel
+144.99,2023-04-16,10,TFS,Tenerife,BRU,Brussel
+249.99,2023-04-17,10,TFS,Tenerife,BRU,Brussel
+239.99,2023-04-18,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-04-23,10,CFU,Corfu,BRU,Brussel
+189.99,2023-04-20,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-04-21,10,HER,Kreta-Heraklion,BRU,Brussel
+399.99,2023-04-23,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-04-24,10,HER,Kreta-Heraklion,BRU,Brussel
+259.99,2023-04-21,10,RHO,Rhodos,BRU,Brussel
+349.99,2023-04-22,10,RHO,Rhodos,BRU,Brussel
+259.99,2023-04-23,10,RHO,Rhodos,BRU,Brussel
+299.99,2023-04-25,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-04-23,10,FAO,Faro,BRU,Brussel
+99.99,2023-04-19,10,ALC,Alicante,BRU,Brussel
+99.99,2023-04-19,10,ALC,Alicante,BRU,Brussel
+99.99,2023-04-20,10,ALC,Alicante,BRU,Brussel
+179.99,2023-04-21,10,ALC,Alicante,BRU,Brussel
+229.99,2023-04-22,7,ALC,Alicante,BRU,Brussel
+149.99,2023-04-23,10,ALC,Alicante,BRU,Brussel
+129.99,2023-04-24,10,ALC,Alicante,BRU,Brussel
+139.99,2023-04-25,10,ALC,Alicante,BRU,Brussel
+149.99,2023-04-20,10,IBZ,Ibiza,BRU,Brussel
+239.99,2023-04-22,10,IBZ,Ibiza,BRU,Brussel
+169.99,2023-04-23,10,IBZ,Ibiza,BRU,Brussel
+114.99,2023-04-19,10,AGP,Malaga,BRU,Brussel
+279.99,2023-04-20,4,AGP,Malaga,BRU,Brussel
+149.99,2023-04-21,10,AGP,Malaga,BRU,Brussel
+194.99,2023-04-22,10,AGP,Malaga,BRU,Brussel
+189.99,2023-04-23,10,AGP,Malaga,BRU,Brussel
+164.99,2023-04-24,10,AGP,Malaga,BRU,Brussel
+129.99,2023-04-25,10,AGP,Malaga,BRU,Brussel
+259.99,2023-04-20,2,PMI,Palma de Mallorca,BRU,Brussel
+234.99,2023-04-21,10,PMI,Palma de Mallorca,BRU,Brussel
+219.99,2023-04-22,10,PMI,Palma de Mallorca,BRU,Brussel
+219.99,2023-04-23,10,PMI,Palma de Mallorca,BRU,Brussel
+154.99,2023-04-24,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-04-25,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-04-19,10,TFS,Tenerife,BRU,Brussel
+194.99,2023-04-20,10,TFS,Tenerife,BRU,Brussel
+339.99,2023-04-21,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-04-21,10,TFS,Tenerife,BRU,Brussel
+339.99,2023-04-22,10,TFS,Tenerife,BRU,Brussel
+339.99,2023-04-23,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-04-24,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-04-25,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-04-28,10,CFU,Corfu,BRU,Brussel
+309.99,2023-04-30,10,CFU,Corfu,BRU,Brussel
+219.99,2023-04-27,10,HER,Kreta-Heraklion,BRU,Brussel
+309.99,2023-04-28,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-05-01,10,HER,Kreta-Heraklion,BRU,Brussel
+309.99,2023-04-28,10,RHO,Rhodos,BRU,Brussel
+309.99,2023-04-29,10,RHO,Rhodos,BRU,Brussel
+309.99,2023-04-30,10,RHO,Rhodos,BRU,Brussel
+499.99,2023-05-02,1,RHO,Rhodos,BRU,Brussel
+219.99,2023-04-30,9,FAO,Faro,BRU,Brussel
+144.99,2023-04-26,10,ALC,Alicante,BRU,Brussel
+149.99,2023-04-26,10,ALC,Alicante,BRU,Brussel
+199.99,2023-04-27,9,ALC,Alicante,BRU,Brussel
+164.99,2023-04-28,10,ALC,Alicante,BRU,Brussel
+299.99,2023-04-29,1,ALC,Alicante,BRU,Brussel
+204.99,2023-04-29,10,ALC,Alicante,BRU,Brussel
+199.99,2023-04-30,10,ALC,Alicante,BRU,Brussel
+179.99,2023-05-01,10,ALC,Alicante,BRU,Brussel
+159.99,2023-05-02,10,ALC,Alicante,BRU,Brussel
+249.99,2023-04-27,10,IBZ,Ibiza,BRU,Brussel
+199.99,2023-04-29,10,IBZ,Ibiza,BRU,Brussel
+144.99,2023-04-30,10,IBZ,Ibiza,BRU,Brussel
+139.99,2023-04-26,10,AGP,Malaga,BRU,Brussel
+119.99,2023-04-27,12,AGP,Malaga,BRU,Brussel
+229.99,2023-04-28,10,AGP,Malaga,BRU,Brussel
+269.99,2023-04-29,10,AGP,Malaga,BRU,Brussel
+234.99,2023-04-30,10,AGP,Malaga,BRU,Brussel
+219.99,2023-05-01,10,AGP,Malaga,BRU,Brussel
+144.99,2023-05-02,10,AGP,Malaga,BRU,Brussel
+209.99,2023-04-26,10,PMI,Palma de Mallorca,BRU,Brussel
+309.99,2023-04-27,2,PMI,Palma de Mallorca,BRU,Brussel
+249.99,2023-04-28,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-04-29,10,PMI,Palma de Mallorca,BRU,Brussel
+249.99,2023-04-30,10,PMI,Palma de Mallorca,BRU,Brussel
+369.99,2023-05-01,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-05-02,10,PMI,Palma de Mallorca,BRU,Brussel
+204.99,2023-04-26,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-04-27,10,TFS,Tenerife,BRU,Brussel
+589.99,2023-04-28,1,TFS,Tenerife,BRU,Brussel
+269.99,2023-04-28,10,TFS,Tenerife,BRU,Brussel
+419.99,2023-04-29,10,TFS,Tenerife,BRU,Brussel
+419.99,2023-04-30,10,TFS,Tenerife,BRU,Brussel
+389.99,2023-05-02,10,TFS,Tenerife,BRU,Brussel
+279.99,2023-05-05,10,CFU,Corfu,BRU,Brussel
+279.99,2023-05-07,10,CFU,Corfu,BRU,Brussel
+169.99,2023-05-09,10,CFU,Corfu,BRU,Brussel
+329.99,2023-05-03,10,HER,Kreta-Heraklion,BRU,Brussel
+279.99,2023-05-04,10,HER,Kreta-Heraklion,BRU,Brussel
+279.99,2023-05-05,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-05-07,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-05-08,10,HER,Kreta-Heraklion,BRU,Brussel
+349.99,2023-05-05,10,RHO,Rhodos,BRU,Brussel
+279.99,2023-05-06,10,RHO,Rhodos,BRU,Brussel
+189.99,2023-05-07,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-05-09,10,RHO,Rhodos,BRU,Brussel
+204.99,2023-05-05,10,NAP,Napels,BRU,Brussel
+204.99,2023-05-05,10,PMO,Palermo,BRU,Brussel
+219.99,2023-05-04,10,FAO,Faro,BRU,Brussel
+219.99,2023-05-07,10,FAO,Faro,BRU,Brussel
+149.99,2023-05-03,10,ALC,Alicante,BRU,Brussel
+159.99,2023-05-03,10,ALC,Alicante,BRU,Brussel
+139.99,2023-05-04,10,ALC,Alicante,BRU,Brussel
+144.99,2023-05-05,10,ALC,Alicante,BRU,Brussel
+184.99,2023-05-06,10,ALC,Alicante,BRU,Brussel
+144.99,2023-05-06,10,ALC,Alicante,BRU,Brussel
+149.99,2023-05-07,10,ALC,Alicante,BRU,Brussel
+149.99,2023-05-08,10,ALC,Alicante,BRU,Brussel
+109.99,2023-05-09,10,ALC,Alicante,BRU,Brussel
+179.99,2023-05-04,10,IBZ,Ibiza,BRU,Brussel
+144.99,2023-05-06,10,IBZ,Ibiza,BRU,Brussel
+109.99,2023-05-07,10,IBZ,Ibiza,BRU,Brussel
+139.99,2023-05-03,10,AGP,Malaga,BRU,Brussel
+154.99,2023-05-05,10,AGP,Malaga,BRU,Brussel
+214.99,2023-05-06,10,AGP,Malaga,BRU,Brussel
+154.99,2023-05-07,10,AGP,Malaga,BRU,Brussel
+154.99,2023-05-08,10,AGP,Malaga,BRU,Brussel
+119.99,2023-05-09,10,AGP,Malaga,BRU,Brussel
+179.99,2023-05-03,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-05-04,10,PMI,Palma de Mallorca,BRU,Brussel
+259.99,2023-05-05,10,PMI,Palma de Mallorca,BRU,Brussel
+249.99,2023-05-06,10,PMI,Palma de Mallorca,BRU,Brussel
+289.99,2023-05-07,10,PMI,Palma de Mallorca,BRU,Brussel
+154.99,2023-05-08,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-05-09,10,PMI,Palma de Mallorca,BRU,Brussel
+259.99,2023-05-03,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-05-04,10,TFS,Tenerife,BRU,Brussel
+389.99,2023-05-05,10,TFS,Tenerife,BRU,Brussel
+269.99,2023-05-05,10,TFS,Tenerife,BRU,Brussel
+299.99,2023-05-06,10,TFS,Tenerife,BRU,Brussel
+274.99,2023-05-07,10,TFS,Tenerife,BRU,Brussel
+244.99,2023-05-08,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-05-09,10,TFS,Tenerife,BRU,Brussel
+279.99,2023-05-12,10,CFU,Corfu,BRU,Brussel
+239.99,2023-05-14,10,CFU,Corfu,BRU,Brussel
+279.99,2023-05-15,10,CFU,Corfu,BRU,Brussel
+239.99,2023-05-16,10,CFU,Corfu,BRU,Brussel
+219.99,2023-05-10,10,HER,Kreta-Heraklion,BRU,Brussel
+209.99,2023-05-11,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-05-12,10,HER,Kreta-Heraklion,BRU,Brussel
+294.99,2023-05-13,10,HER,Kreta-Heraklion,BRU,Brussel
+264.99,2023-05-14,10,HER,Kreta-Heraklion,BRU,Brussel
+294.99,2023-05-15,10,HER,Kreta-Heraklion,BRU,Brussel
+294.99,2023-05-12,10,RHO,Rhodos,BRU,Brussel
+294.99,2023-05-13,10,RHO,Rhodos,BRU,Brussel
+294.99,2023-05-14,10,RHO,Rhodos,BRU,Brussel
+349.99,2023-05-16,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-05-13,10,BDS,Brindisi,BRU,Brussel
+179.99,2023-05-16,10,BDS,Brindisi,BRU,Brussel
+204.99,2023-05-12,10,NAP,Napels,BRU,Brussel
+269.99,2023-05-15,10,NAP,Napels,BRU,Brussel
+179.99,2023-05-12,10,PMO,Palermo,BRU,Brussel
+234.99,2023-05-15,10,PMO,Palermo,BRU,Brussel
+164.99,2023-05-11,13,FAO,Faro,BRU,Brussel
+249.99,2023-05-14,10,FAO,Faro,BRU,Brussel
+144.99,2023-05-10,10,ALC,Alicante,BRU,Brussel
+104.99,2023-05-10,10,ALC,Alicante,BRU,Brussel
+114.99,2023-05-11,10,ALC,Alicante,BRU,Brussel
+179.99,2023-05-12,10,ALC,Alicante,BRU,Brussel
+179.99,2023-05-14,10,ALC,Alicante,BRU,Brussel
+174.99,2023-05-15,10,ALC,Alicante,BRU,Brussel
+219.99,2023-05-16,10,ALC,Alicante,BRU,Brussel
+169.99,2023-05-11,10,IBZ,Ibiza,BRU,Brussel
+249.99,2023-05-13,10,IBZ,Ibiza,BRU,Brussel
+119.99,2023-05-14,10,IBZ,Ibiza,BRU,Brussel
+309.99,2023-05-16,6,IBZ,Ibiza,BRU,Brussel
+149.99,2023-05-10,10,AGP,Malaga,BRU,Brussel
+169.99,2023-05-11,10,AGP,Malaga,BRU,Brussel
+194.99,2023-05-12,10,AGP,Malaga,BRU,Brussel
+209.99,2023-05-13,10,AGP,Malaga,BRU,Brussel
+184.99,2023-05-14,10,AGP,Malaga,BRU,Brussel
+219.99,2023-05-15,10,AGP,Malaga,BRU,Brussel
+224.99,2023-05-16,10,AGP,Malaga,BRU,Brussel
+99.99,2023-05-10,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-05-11,10,PMI,Palma de Mallorca,BRU,Brussel
+259.99,2023-05-12,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-05-13,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-05-14,10,PMI,Palma de Mallorca,BRU,Brussel
+239.99,2023-05-15,10,PMI,Palma de Mallorca,BRU,Brussel
+199.99,2023-05-16,14,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-05-10,10,TFS,Tenerife,BRU,Brussel
+159.99,2023-05-11,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-05-12,10,TFS,Tenerife,BRU,Brussel
+174.99,2023-05-12,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-05-13,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-05-14,10,TFS,Tenerife,BRU,Brussel
+274.99,2023-05-15,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-05-16,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-05-19,10,CFU,Corfu,BRU,Brussel
+209.99,2023-05-21,12,CFU,Corfu,BRU,Brussel
+189.99,2023-05-22,10,CFU,Corfu,BRU,Brussel
+169.99,2023-05-23,10,CFU,Corfu,BRU,Brussel
+254.99,2023-05-17,10,HER,Kreta-Heraklion,BRU,Brussel
+254.99,2023-05-18,10,HER,Kreta-Heraklion,BRU,Brussel
+229.99,2023-05-19,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-05-20,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-05-21,10,HER,Kreta-Heraklion,BRU,Brussel
+244.99,2023-05-22,10,HER,Kreta-Heraklion,BRU,Brussel
+399.99,2023-05-19,10,RHO,Rhodos,BRU,Brussel
+199.99,2023-05-20,10,RHO,Rhodos,BRU,Brussel
+199.99,2023-05-21,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-05-23,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-05-20,10,BDS,Brindisi,BRU,Brussel
+179.99,2023-05-23,10,BDS,Brindisi,BRU,Brussel
+179.99,2023-05-19,10,NAP,Napels,BRU,Brussel
+139.99,2023-05-22,10,NAP,Napels,BRU,Brussel
+179.99,2023-05-19,10,PMO,Palermo,BRU,Brussel
+149.99,2023-05-22,10,PMO,Palermo,BRU,Brussel
+249.99,2023-05-18,8,FAO,Faro,BRU,Brussel
+119.99,2023-05-21,10,FAO,Faro,BRU,Brussel
+214.99,2023-05-17,10,ALC,Alicante,BRU,Brussel
+214.99,2023-05-17,10,ALC,Alicante,BRU,Brussel
+249.99,2023-05-18,10,ALC,Alicante,BRU,Brussel
+174.99,2023-05-19,10,ALC,Alicante,BRU,Brussel
+174.99,2023-05-20,10,ALC,Alicante,BRU,Brussel
+89.99,2023-05-21,6,ALC,Alicante,BRU,Brussel
+154.99,2023-05-21,10,ALC,Alicante,BRU,Brussel
+129.99,2023-05-22,10,ALC,Alicante,BRU,Brussel
+129.99,2023-05-23,10,ALC,Alicante,BRU,Brussel
+499.99,2023-05-18,1,IBZ,Ibiza,BRU,Brussel
+154.99,2023-05-20,10,IBZ,Ibiza,BRU,Brussel
+129.99,2023-05-21,10,IBZ,Ibiza,BRU,Brussel
+89.99,2023-05-23,10,IBZ,Ibiza,BRU,Brussel
+269.99,2023-05-17,10,AGP,Malaga,BRU,Brussel
+199.99,2023-05-19,10,AGP,Malaga,BRU,Brussel
+124.99,2023-05-20,10,AGP,Malaga,BRU,Brussel
+124.99,2023-05-21,10,AGP,Malaga,BRU,Brussel
+114.99,2023-05-21,10,AGP,Malaga,BRU,Brussel
+124.99,2023-05-22,10,AGP,Malaga,BRU,Brussel
+104.99,2023-05-23,10,AGP,Malaga,BRU,Brussel
+269.99,2023-05-17,10,PMI,Palma de Mallorca,BRU,Brussel
+274.99,2023-05-18,10,PMI,Palma de Mallorca,BRU,Brussel
+244.99,2023-05-19,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-05-20,10,PMI,Palma de Mallorca,BRU,Brussel
+129.99,2023-05-21,10,PMI,Palma de Mallorca,BRU,Brussel
+259.99,2023-05-21,10,PMI,Palma de Mallorca,BRU,Brussel
+114.99,2023-05-22,10,PMI,Palma de Mallorca,BRU,Brussel
+89.99,2023-05-23,10,PMI,Palma de Mallorca,BRU,Brussel
+289.99,2023-05-17,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-05-18,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-05-19,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-05-19,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-05-20,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-05-21,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-05-22,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-05-23,10,TFS,Tenerife,BRU,Brussel
+279.99,2023-05-26,10,CFU,Corfu,BRU,Brussel
+279.99,2023-05-28,10,CFU,Corfu,BRU,Brussel
+279.99,2023-05-29,10,CFU,Corfu,BRU,Brussel
+189.99,2023-05-30,10,CFU,Corfu,BRU,Brussel
+169.99,2023-05-24,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-05-25,10,HER,Kreta-Heraklion,BRU,Brussel
+294.99,2023-05-26,10,HER,Kreta-Heraklion,BRU,Brussel
+294.99,2023-05-27,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-05-28,10,HER,Kreta-Heraklion,BRU,Brussel
+349.99,2023-05-29,10,HER,Kreta-Heraklion,BRU,Brussel
+349.99,2023-05-26,10,RHO,Rhodos,BRU,Brussel
+294.99,2023-05-27,10,RHO,Rhodos,BRU,Brussel
+199.99,2023-05-28,10,RHO,Rhodos,BRU,Brussel
+299.99,2023-05-30,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-05-27,10,BDS,Brindisi,BRU,Brussel
+144.99,2023-05-30,10,BDS,Brindisi,BRU,Brussel
+234.99,2023-05-26,10,NAP,Napels,BRU,Brussel
+189.99,2023-05-29,10,NAP,Napels,BRU,Brussel
+234.99,2023-05-26,10,PMO,Palermo,BRU,Brussel
+219.99,2023-05-29,10,PMO,Palermo,BRU,Brussel
+249.99,2023-05-25,10,FAO,Faro,BRU,Brussel
+234.99,2023-05-28,10,FAO,Faro,BRU,Brussel
+104.99,2023-05-24,10,ALC,Alicante,BRU,Brussel
+109.99,2023-05-24,10,ALC,Alicante,BRU,Brussel
+104.99,2023-05-25,10,ALC,Alicante,BRU,Brussel
+179.99,2023-05-26,10,ALC,Alicante,BRU,Brussel
+179.99,2023-05-27,10,ALC,Alicante,BRU,Brussel
+139.99,2023-05-28,10,ALC,Alicante,BRU,Brussel
+134.99,2023-05-29,10,ALC,Alicante,BRU,Brussel
+95.99,2023-05-30,10,ALC,Alicante,BRU,Brussel
+234.99,2023-05-27,10,IBZ,Ibiza,BRU,Brussel
+139.99,2023-05-28,10,IBZ,Ibiza,BRU,Brussel
+119.99,2023-05-30,10,IBZ,Ibiza,BRU,Brussel
+144.99,2023-05-24,10,AGP,Malaga,BRU,Brussel
+209.99,2023-05-26,10,AGP,Malaga,BRU,Brussel
+209.99,2023-05-27,10,AGP,Malaga,BRU,Brussel
+134.99,2023-05-28,10,AGP,Malaga,BRU,Brussel
+134.99,2023-05-29,10,AGP,Malaga,BRU,Brussel
+114.99,2023-05-30,10,AGP,Malaga,BRU,Brussel
+93.99,2023-05-24,10,PMI,Palma de Mallorca,BRU,Brussel
+189.99,2023-05-25,10,PMI,Palma de Mallorca,BRU,Brussel
+294.99,2023-05-26,10,PMI,Palma de Mallorca,BRU,Brussel
+234.99,2023-05-27,10,PMI,Palma de Mallorca,BRU,Brussel
+229.99,2023-05-28,10,PMI,Palma de Mallorca,BRU,Brussel
+139.99,2023-05-29,10,PMI,Palma de Mallorca,BRU,Brussel
+89.99,2023-05-30,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-05-24,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-05-25,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-05-26,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-05-26,10,TFS,Tenerife,BRU,Brussel
+274.99,2023-05-27,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-05-28,10,TFS,Tenerife,BRU,Brussel
+274.99,2023-05-29,10,TFS,Tenerife,BRU,Brussel
+194.99,2023-05-30,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-06-02,10,CFU,Corfu,BRU,Brussel
+189.99,2023-06-04,10,CFU,Corfu,BRU,Brussel
+189.99,2023-06-05,10,CFU,Corfu,BRU,Brussel
+159.99,2023-06-06,10,CFU,Corfu,BRU,Brussel
+164.99,2023-05-31,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-06-01,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-06-02,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-06-03,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-06-04,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-06-05,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-06-02,10,RHO,Rhodos,BRU,Brussel
+159.99,2023-06-03,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-06-04,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-06-06,10,RHO,Rhodos,BRU,Brussel
+154.99,2023-06-03,10,BDS,Brindisi,BRU,Brussel
+139.99,2023-06-06,10,BDS,Brindisi,BRU,Brussel
+174.99,2023-06-02,10,NAP,Napels,BRU,Brussel
+219.99,2023-06-05,10,NAP,Napels,BRU,Brussel
+179.99,2023-06-02,10,PMO,Palermo,BRU,Brussel
+199.99,2023-06-05,10,PMO,Palermo,BRU,Brussel
+154.99,2023-06-01,10,FAO,Faro,BRU,Brussel
+154.99,2023-06-04,10,FAO,Faro,BRU,Brussel
+109.99,2023-05-31,10,ALC,Alicante,BRU,Brussel
+104.99,2023-05-31,10,ALC,Alicante,BRU,Brussel
+104.99,2023-06-01,10,ALC,Alicante,BRU,Brussel
+149.99,2023-06-02,10,ALC,Alicante,BRU,Brussel
+149.99,2023-06-03,10,ALC,Alicante,BRU,Brussel
+149.99,2023-06-04,10,ALC,Alicante,BRU,Brussel
+134.99,2023-06-05,10,ALC,Alicante,BRU,Brussel
+149.99,2023-06-06,10,ALC,Alicante,BRU,Brussel
+369.99,2023-06-01,8,IBZ,Ibiza,BRU,Brussel
+114.99,2023-06-03,10,IBZ,Ibiza,BRU,Brussel
+95.99,2023-06-04,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-06-06,10,IBZ,Ibiza,BRU,Brussel
+154.99,2023-05-31,10,AGP,Malaga,BRU,Brussel
+199.99,2023-06-01,10,AGP,Malaga,BRU,Brussel
+169.99,2023-06-02,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-03,10,AGP,Malaga,BRU,Brussel
+169.99,2023-06-04,10,AGP,Malaga,BRU,Brussel
+169.99,2023-06-05,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-06,10,AGP,Malaga,BRU,Brussel
+97.99,2023-05-31,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-01,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-06-02,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-06-03,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-06-04,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-05,10,PMI,Palma de Mallorca,BRU,Brussel
+97.99,2023-06-06,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-05-31,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-06-01,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-06-02,10,TFS,Tenerife,BRU,Brussel
+194.99,2023-06-02,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-06-03,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-06-04,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-06-05,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-06-06,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-06-09,10,CFU,Corfu,BRU,Brussel
+189.99,2023-06-11,10,CFU,Corfu,BRU,Brussel
+189.99,2023-06-12,10,CFU,Corfu,BRU,Brussel
+149.99,2023-06-13,10,CFU,Corfu,BRU,Brussel
+189.99,2023-06-07,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-06-08,10,HER,Kreta-Heraklion,BRU,Brussel
+154.99,2023-06-09,10,HER,Kreta-Heraklion,BRU,Brussel
+174.99,2023-06-10,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-06-11,10,HER,Kreta-Heraklion,BRU,Brussel
+164.99,2023-06-12,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-06-09,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-06-10,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-06-11,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-06-13,10,RHO,Rhodos,BRU,Brussel
+154.99,2023-06-10,10,BDS,Brindisi,BRU,Brussel
+134.99,2023-06-13,10,BDS,Brindisi,BRU,Brussel
+179.99,2023-06-09,10,NAP,Napels,BRU,Brussel
+204.99,2023-06-12,10,NAP,Napels,BRU,Brussel
+179.99,2023-06-09,10,PMO,Palermo,BRU,Brussel
+169.99,2023-06-12,10,PMO,Palermo,BRU,Brussel
+154.99,2023-06-08,10,FAO,Faro,BRU,Brussel
+144.99,2023-06-11,10,FAO,Faro,BRU,Brussel
+109.99,2023-06-07,10,ALC,Alicante,BRU,Brussel
+104.99,2023-06-07,10,ALC,Alicante,BRU,Brussel
+109.99,2023-06-08,10,ALC,Alicante,BRU,Brussel
+104.99,2023-06-09,10,ALC,Alicante,BRU,Brussel
+149.99,2023-06-10,10,ALC,Alicante,BRU,Brussel
+129.99,2023-06-11,10,ALC,Alicante,BRU,Brussel
+109.99,2023-06-12,10,ALC,Alicante,BRU,Brussel
+99.99,2023-06-13,10,ALC,Alicante,BRU,Brussel
+189.99,2023-06-08,10,IBZ,Ibiza,BRU,Brussel
+114.99,2023-06-10,10,IBZ,Ibiza,BRU,Brussel
+85.99,2023-06-11,10,IBZ,Ibiza,BRU,Brussel
+75.99,2023-06-13,10,IBZ,Ibiza,BRU,Brussel
+119.99,2023-06-07,10,AGP,Malaga,BRU,Brussel
+169.99,2023-06-08,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-09,10,AGP,Malaga,BRU,Brussel
+119.99,2023-06-10,10,AGP,Malaga,BRU,Brussel
+149.99,2023-06-11,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-12,10,AGP,Malaga,BRU,Brussel
+114.99,2023-06-13,10,AGP,Malaga,BRU,Brussel
+109.99,2023-06-07,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-08,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-06-09,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-10,10,PMI,Palma de Mallorca,BRU,Brussel
+124.99,2023-06-11,10,PMI,Palma de Mallorca,BRU,Brussel
+129.99,2023-06-12,10,PMI,Palma de Mallorca,BRU,Brussel
+89.99,2023-06-13,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-06-07,10,TFS,Tenerife,BRU,Brussel
+164.99,2023-06-08,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-06-09,10,TFS,Tenerife,BRU,Brussel
+149.99,2023-06-09,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-06-10,10,TFS,Tenerife,BRU,Brussel
+164.99,2023-06-11,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-06-12,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-06-13,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-06-16,10,CFU,Corfu,BRU,Brussel
+189.99,2023-06-18,10,CFU,Corfu,BRU,Brussel
+189.99,2023-06-19,10,CFU,Corfu,BRU,Brussel
+149.99,2023-06-20,10,CFU,Corfu,BRU,Brussel
+149.99,2023-06-14,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-06-15,10,HER,Kreta-Heraklion,BRU,Brussel
+179.99,2023-06-16,10,HER,Kreta-Heraklion,BRU,Brussel
+184.99,2023-06-17,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-06-18,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-06-19,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-06-16,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-06-17,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-06-18,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-06-20,10,RHO,Rhodos,BRU,Brussel
+154.99,2023-06-17,10,BDS,Brindisi,BRU,Brussel
+154.99,2023-06-20,10,BDS,Brindisi,BRU,Brussel
+164.99,2023-06-16,10,NAP,Napels,BRU,Brussel
+209.99,2023-06-19,10,NAP,Napels,BRU,Brussel
+179.99,2023-06-16,10,PMO,Palermo,BRU,Brussel
+219.99,2023-06-19,10,PMO,Palermo,BRU,Brussel
+154.99,2023-06-15,10,FAO,Faro,BRU,Brussel
+139.99,2023-06-18,10,FAO,Faro,BRU,Brussel
+95.99,2023-06-14,10,ALC,Alicante,BRU,Brussel
+99.99,2023-06-14,10,ALC,Alicante,BRU,Brussel
+139.99,2023-06-15,10,ALC,Alicante,BRU,Brussel
+149.99,2023-06-16,10,ALC,Alicante,BRU,Brussel
+199.99,2023-06-17,10,ALC,Alicante,BRU,Brussel
+124.99,2023-06-18,10,ALC,Alicante,BRU,Brussel
+154.99,2023-06-19,10,ALC,Alicante,BRU,Brussel
+129.99,2023-06-20,10,ALC,Alicante,BRU,Brussel
+209.99,2023-06-15,10,IBZ,Ibiza,BRU,Brussel
+99.99,2023-06-17,10,IBZ,Ibiza,BRU,Brussel
+75.99,2023-06-18,10,IBZ,Ibiza,BRU,Brussel
+99.99,2023-06-20,10,IBZ,Ibiza,BRU,Brussel
+109.99,2023-06-14,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-15,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-16,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-17,10,AGP,Malaga,BRU,Brussel
+149.99,2023-06-18,10,AGP,Malaga,BRU,Brussel
+184.99,2023-06-19,10,AGP,Malaga,BRU,Brussel
+214.99,2023-06-20,10,AGP,Malaga,BRU,Brussel
+119.99,2023-06-14,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-06-15,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-06-16,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-17,10,PMI,Palma de Mallorca,BRU,Brussel
+219.99,2023-06-18,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-19,10,PMI,Palma de Mallorca,BRU,Brussel
+89.99,2023-06-20,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-06-14,10,TFS,Tenerife,BRU,Brussel
+184.99,2023-06-15,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-06-16,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-06-16,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-06-17,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-06-18,10,TFS,Tenerife,BRU,Brussel
+239.99,2023-06-19,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-06-20,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-06-23,10,CFU,Corfu,BRU,Brussel
+254.99,2023-06-25,10,CFU,Corfu,BRU,Brussel
+209.99,2023-06-26,10,CFU,Corfu,BRU,Brussel
+234.99,2023-06-27,10,CFU,Corfu,BRU,Brussel
+159.99,2023-06-21,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-06-22,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-06-23,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-06-24,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-06-25,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-06-26,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-06-23,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-06-24,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-06-25,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-06-27,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-06-24,10,BDS,Brindisi,BRU,Brussel
+169.99,2023-06-27,10,BDS,Brindisi,BRU,Brussel
+169.99,2023-06-23,10,NAP,Napels,BRU,Brussel
+239.99,2023-06-26,10,NAP,Napels,BRU,Brussel
+184.99,2023-06-23,10,PMO,Palermo,BRU,Brussel
+239.99,2023-06-26,10,PMO,Palermo,BRU,Brussel
+179.99,2023-06-22,10,FAO,Faro,BRU,Brussel
+169.99,2023-06-25,10,FAO,Faro,BRU,Brussel
+134.99,2023-06-21,10,ALC,Alicante,BRU,Brussel
+114.99,2023-06-21,10,ALC,Alicante,BRU,Brussel
+119.99,2023-06-22,10,ALC,Alicante,BRU,Brussel
+139.99,2023-06-23,10,ALC,Alicante,BRU,Brussel
+179.99,2023-06-24,10,ALC,Alicante,BRU,Brussel
+134.99,2023-06-25,10,ALC,Alicante,BRU,Brussel
+144.99,2023-06-26,10,ALC,Alicante,BRU,Brussel
+154.99,2023-06-27,10,ALC,Alicante,BRU,Brussel
+299.99,2023-06-22,10,IBZ,Ibiza,BRU,Brussel
+109.99,2023-06-24,10,IBZ,Ibiza,BRU,Brussel
+99.99,2023-06-25,10,IBZ,Ibiza,BRU,Brussel
+119.99,2023-06-27,10,IBZ,Ibiza,BRU,Brussel
+134.99,2023-06-21,10,AGP,Malaga,BRU,Brussel
+144.99,2023-06-22,10,AGP,Malaga,BRU,Brussel
+214.99,2023-06-23,10,AGP,Malaga,BRU,Brussel
+164.99,2023-06-24,10,AGP,Malaga,BRU,Brussel
+144.99,2023-06-25,10,AGP,Malaga,BRU,Brussel
+149.99,2023-06-26,10,AGP,Malaga,BRU,Brussel
+159.99,2023-06-27,10,AGP,Malaga,BRU,Brussel
+149.99,2023-06-21,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-22,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-06-23,10,PMI,Palma de Mallorca,BRU,Brussel
+119.99,2023-06-24,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-06-25,10,PMI,Palma de Mallorca,BRU,Brussel
+109.99,2023-06-26,10,PMI,Palma de Mallorca,BRU,Brussel
+114.99,2023-06-27,10,PMI,Palma de Mallorca,BRU,Brussel
+214.99,2023-06-21,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-06-22,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-06-23,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-06-23,10,TFS,Tenerife,BRU,Brussel
+274.99,2023-06-24,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-06-25,10,TFS,Tenerife,BRU,Brussel
+249.99,2023-06-26,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-06-27,10,TFS,Tenerife,BRU,Brussel
+259.99,2023-06-30,10,CFU,Corfu,BRU,Brussel
+329.99,2023-07-02,10,CFU,Corfu,BRU,Brussel
+329.99,2023-07-03,10,CFU,Corfu,BRU,Brussel
+329.99,2023-07-04,10,CFU,Corfu,BRU,Brussel
+249.99,2023-06-28,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-06-29,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-06-30,10,HER,Kreta-Heraklion,BRU,Brussel
+399.99,2023-07-01,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-07-02,10,HER,Kreta-Heraklion,BRU,Brussel
+399.99,2023-07-03,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-07-04,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-06-30,10,RHO,Rhodos,BRU,Brussel
+399.99,2023-07-01,10,RHO,Rhodos,BRU,Brussel
+269.99,2023-07-02,10,RHO,Rhodos,BRU,Brussel
+399.99,2023-07-03,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-04,10,RHO,Rhodos,BRU,Brussel
+199.99,2023-07-01,10,BDS,Brindisi,BRU,Brussel
+199.99,2023-07-04,10,BDS,Brindisi,BRU,Brussel
+249.99,2023-06-30,10,NAP,Napels,BRU,Brussel
+309.99,2023-07-03,10,NAP,Napels,BRU,Brussel
+339.99,2023-06-30,10,PMO,Palermo,BRU,Brussel
+359.99,2023-07-03,10,PMO,Palermo,BRU,Brussel
+169.99,2023-06-29,10,FAO,Faro,BRU,Brussel
+189.99,2023-07-01,10,FAO,Faro,BRU,Brussel
+199.99,2023-07-02,10,FAO,Faro,BRU,Brussel
+159.99,2023-06-28,10,ALC,Alicante,BRU,Brussel
+159.99,2023-06-28,10,ALC,Alicante,BRU,Brussel
+164.99,2023-06-29,10,ALC,Alicante,BRU,Brussel
+184.99,2023-06-30,10,ALC,Alicante,BRU,Brussel
+219.99,2023-06-30,10,ALC,Alicante,BRU,Brussel
+239.99,2023-07-01,10,ALC,Alicante,BRU,Brussel
+209.99,2023-07-02,10,ALC,Alicante,BRU,Brussel
+174.99,2023-07-02,10,ALC,Alicante,BRU,Brussel
+209.99,2023-07-03,10,ALC,Alicante,BRU,Brussel
+209.99,2023-07-04,10,ALC,Alicante,BRU,Brussel
+159.99,2023-06-29,10,IBZ,Ibiza,BRU,Brussel
+204.99,2023-07-01,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-07-02,10,IBZ,Ibiza,BRU,Brussel
+154.99,2023-07-04,10,IBZ,Ibiza,BRU,Brussel
+169.99,2023-06-28,10,AGP,Malaga,BRU,Brussel
+164.99,2023-06-29,10,AGP,Malaga,BRU,Brussel
+189.99,2023-06-30,10,AGP,Malaga,BRU,Brussel
+189.99,2023-06-30,10,AGP,Malaga,BRU,Brussel
+264.99,2023-07-01,10,AGP,Malaga,BRU,Brussel
+199.99,2023-07-02,10,AGP,Malaga,BRU,Brussel
+184.99,2023-07-02,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-03,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-04,10,AGP,Malaga,BRU,Brussel
+129.99,2023-06-28,10,PMI,Palma de Mallorca,BRU,Brussel
+189.99,2023-06-29,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-06-30,10,PMI,Palma de Mallorca,BRU,Brussel
+244.99,2023-07-01,10,PMI,Palma de Mallorca,BRU,Brussel
+184.99,2023-07-01,10,PMI,Palma de Mallorca,BRU,Brussel
+239.99,2023-07-02,10,PMI,Palma de Mallorca,BRU,Brussel
+249.99,2023-07-03,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-07-04,10,PMI,Palma de Mallorca,BRU,Brussel
+239.99,2023-06-28,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-06-29,10,TFS,Tenerife,BRU,Brussel
+349.99,2023-06-30,10,TFS,Tenerife,BRU,Brussel
+269.99,2023-06-30,10,TFS,Tenerife,BRU,Brussel
+419.99,2023-07-01,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-07-01,10,TFS,Tenerife,BRU,Brussel
+284.99,2023-07-02,10,TFS,Tenerife,BRU,Brussel
+419.99,2023-07-03,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-07-03,10,TFS,Tenerife,BRU,Brussel
+299.99,2023-07-04,10,TFS,Tenerife,BRU,Brussel
+319.99,2023-07-07,10,CFU,Corfu,BRU,Brussel
+369.99,2023-07-09,10,CFU,Corfu,BRU,Brussel
+369.99,2023-07-10,10,CFU,Corfu,BRU,Brussel
+369.99,2023-07-11,10,CFU,Corfu,BRU,Brussel
+284.99,2023-07-05,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-07-06,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-07-07,10,HER,Kreta-Heraklion,BRU,Brussel
+399.99,2023-07-08,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-07-09,10,HER,Kreta-Heraklion,BRU,Brussel
+399.99,2023-07-10,10,HER,Kreta-Heraklion,BRU,Brussel
+389.99,2023-07-11,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-07-05,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-06,10,RHO,Rhodos,BRU,Brussel
+294.99,2023-07-07,10,RHO,Rhodos,BRU,Brussel
+399.99,2023-07-08,10,RHO,Rhodos,BRU,Brussel
+294.99,2023-07-09,10,RHO,Rhodos,BRU,Brussel
+399.99,2023-07-10,10,RHO,Rhodos,BRU,Brussel
+399.99,2023-07-11,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-07-08,10,BDS,Brindisi,BRU,Brussel
+259.99,2023-07-11,10,BDS,Brindisi,BRU,Brussel
+339.99,2023-07-07,10,NAP,Napels,BRU,Brussel
+309.99,2023-07-10,10,NAP,Napels,BRU,Brussel
+359.99,2023-07-07,10,PMO,Palermo,BRU,Brussel
+349.99,2023-07-10,10,PMO,Palermo,BRU,Brussel
+219.99,2023-07-06,10,FAO,Faro,BRU,Brussel
+219.99,2023-07-08,10,FAO,Faro,BRU,Brussel
+219.99,2023-07-09,10,FAO,Faro,BRU,Brussel
+164.99,2023-07-05,10,ALC,Alicante,BRU,Brussel
+174.99,2023-07-05,10,ALC,Alicante,BRU,Brussel
+164.99,2023-07-06,10,ALC,Alicante,BRU,Brussel
+189.99,2023-07-07,10,ALC,Alicante,BRU,Brussel
+179.99,2023-07-07,10,ALC,Alicante,BRU,Brussel
+214.99,2023-07-08,10,ALC,Alicante,BRU,Brussel
+214.99,2023-07-09,10,ALC,Alicante,BRU,Brussel
+169.99,2023-07-09,10,ALC,Alicante,BRU,Brussel
+219.99,2023-07-10,10,ALC,Alicante,BRU,Brussel
+194.99,2023-07-11,10,ALC,Alicante,BRU,Brussel
+149.99,2023-07-05,10,IBZ,Ibiza,BRU,Brussel
+169.99,2023-07-06,10,IBZ,Ibiza,BRU,Brussel
+244.99,2023-07-08,10,IBZ,Ibiza,BRU,Brussel
+159.99,2023-07-09,10,IBZ,Ibiza,BRU,Brussel
+154.99,2023-07-11,10,IBZ,Ibiza,BRU,Brussel
+209.99,2023-07-05,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-06,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-07,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-07,10,AGP,Malaga,BRU,Brussel
+249.99,2023-07-08,10,AGP,Malaga,BRU,Brussel
+249.99,2023-07-09,10,AGP,Malaga,BRU,Brussel
+184.99,2023-07-09,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-10,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-11,10,AGP,Malaga,BRU,Brussel
+169.99,2023-07-05,10,PMI,Palma de Mallorca,BRU,Brussel
+154.99,2023-07-06,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-07-07,10,PMI,Palma de Mallorca,BRU,Brussel
+244.99,2023-07-08,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-07-08,10,PMI,Palma de Mallorca,BRU,Brussel
+244.99,2023-07-09,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-07-10,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-07-11,10,PMI,Palma de Mallorca,BRU,Brussel
+309.99,2023-07-05,10,TFS,Tenerife,BRU,Brussel
+279.99,2023-07-05,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-07-06,10,TFS,Tenerife,BRU,Brussel
+339.99,2023-07-07,10,TFS,Tenerife,BRU,Brussel
+329.99,2023-07-07,10,TFS,Tenerife,BRU,Brussel
+369.99,2023-07-08,10,TFS,Tenerife,BRU,Brussel
+339.99,2023-07-08,10,TFS,Tenerife,BRU,Brussel
+329.99,2023-07-09,10,TFS,Tenerife,BRU,Brussel
+419.99,2023-07-10,10,TFS,Tenerife,BRU,Brussel
+289.99,2023-07-10,10,TFS,Tenerife,BRU,Brussel
+289.99,2023-07-11,10,TFS,Tenerife,BRU,Brussel
+329.99,2023-07-14,10,CFU,Corfu,BRU,Brussel
+399.99,2023-07-16,10,CFU,Corfu,BRU,Brussel
+399.99,2023-07-17,10,CFU,Corfu,BRU,Brussel
+399.99,2023-07-18,10,CFU,Corfu,BRU,Brussel
+294.99,2023-07-12,10,HER,Kreta-Heraklion,BRU,Brussel
+339.99,2023-07-13,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-07-14,10,HER,Kreta-Heraklion,BRU,Brussel
+339.99,2023-07-15,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-07-16,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-07-17,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-07-18,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-07-12,10,RHO,Rhodos,BRU,Brussel
+399.99,2023-07-13,10,RHO,Rhodos,BRU,Brussel
+269.99,2023-07-14,10,RHO,Rhodos,BRU,Brussel
+269.99,2023-07-15,10,RHO,Rhodos,BRU,Brussel
+269.99,2023-07-16,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-17,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-18,10,RHO,Rhodos,BRU,Brussel
+244.99,2023-07-15,10,BDS,Brindisi,BRU,Brussel
+219.99,2023-07-18,10,BDS,Brindisi,BRU,Brussel
+239.99,2023-07-14,10,NAP,Napels,BRU,Brussel
+349.99,2023-07-17,10,NAP,Napels,BRU,Brussel
+359.99,2023-07-14,10,PMO,Palermo,BRU,Brussel
+349.99,2023-07-17,10,PMO,Palermo,BRU,Brussel
+219.99,2023-07-13,10,FAO,Faro,BRU,Brussel
+219.99,2023-07-15,10,FAO,Faro,BRU,Brussel
+219.99,2023-07-16,10,FAO,Faro,BRU,Brussel
+164.99,2023-07-12,10,ALC,Alicante,BRU,Brussel
+179.99,2023-07-12,10,ALC,Alicante,BRU,Brussel
+179.99,2023-07-13,10,ALC,Alicante,BRU,Brussel
+189.99,2023-07-14,10,ALC,Alicante,BRU,Brussel
+184.99,2023-07-14,10,ALC,Alicante,BRU,Brussel
+234.99,2023-07-15,10,ALC,Alicante,BRU,Brussel
+214.99,2023-07-16,10,ALC,Alicante,BRU,Brussel
+174.99,2023-07-16,10,ALC,Alicante,BRU,Brussel
+229.99,2023-07-17,10,ALC,Alicante,BRU,Brussel
+209.99,2023-07-18,10,ALC,Alicante,BRU,Brussel
+149.99,2023-07-12,10,IBZ,Ibiza,BRU,Brussel
+209.99,2023-07-13,10,IBZ,Ibiza,BRU,Brussel
+244.99,2023-07-15,10,IBZ,Ibiza,BRU,Brussel
+159.99,2023-07-16,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-07-18,10,IBZ,Ibiza,BRU,Brussel
+209.99,2023-07-12,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-13,10,AGP,Malaga,BRU,Brussel
+204.99,2023-07-14,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-14,10,AGP,Malaga,BRU,Brussel
+249.99,2023-07-15,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-16,10,AGP,Malaga,BRU,Brussel
+194.99,2023-07-16,10,AGP,Malaga,BRU,Brussel
+219.99,2023-07-17,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-18,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-12,10,PMI,Palma de Mallorca,BRU,Brussel
+164.99,2023-07-13,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-07-14,10,PMI,Palma de Mallorca,BRU,Brussel
+204.99,2023-07-15,10,PMI,Palma de Mallorca,BRU,Brussel
+194.99,2023-07-15,10,PMI,Palma de Mallorca,BRU,Brussel
+194.99,2023-07-16,10,PMI,Palma de Mallorca,BRU,Brussel
+244.99,2023-07-17,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-07-18,10,PMI,Palma de Mallorca,BRU,Brussel
+289.99,2023-07-12,10,TFS,Tenerife,BRU,Brussel
+284.99,2023-07-12,10,TFS,Tenerife,BRU,Brussel
+279.99,2023-07-13,10,TFS,Tenerife,BRU,Brussel
+359.99,2023-07-14,10,TFS,Tenerife,BRU,Brussel
+329.99,2023-07-14,10,TFS,Tenerife,BRU,Brussel
+479.99,2023-07-15,10,TFS,Tenerife,BRU,Brussel
+349.99,2023-07-15,10,TFS,Tenerife,BRU,Brussel
+329.99,2023-07-16,10,TFS,Tenerife,BRU,Brussel
+419.99,2023-07-17,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-07-17,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-07-18,10,TFS,Tenerife,BRU,Brussel
+399.99,2023-07-21,10,CFU,Corfu,BRU,Brussel
+399.99,2023-07-23,10,CFU,Corfu,BRU,Brussel
+369.99,2023-07-24,10,CFU,Corfu,BRU,Brussel
+369.99,2023-07-25,10,CFU,Corfu,BRU,Brussel
+259.99,2023-07-19,10,HER,Kreta-Heraklion,BRU,Brussel
+299.99,2023-07-20,10,HER,Kreta-Heraklion,BRU,Brussel
+359.99,2023-07-21,10,HER,Kreta-Heraklion,BRU,Brussel
+319.99,2023-07-22,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-07-23,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-07-24,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-07-25,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-07-19,10,RHO,Rhodos,BRU,Brussel
+349.99,2023-07-20,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-21,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-07-22,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-07-23,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-24,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-25,10,RHO,Rhodos,BRU,Brussel
+234.99,2023-07-22,10,BDS,Brindisi,BRU,Brussel
+249.99,2023-07-25,10,BDS,Brindisi,BRU,Brussel
+274.99,2023-07-21,10,NAP,Napels,BRU,Brussel
+239.99,2023-07-24,10,NAP,Napels,BRU,Brussel
+349.99,2023-07-21,10,PMO,Palermo,BRU,Brussel
+329.99,2023-07-24,10,PMO,Palermo,BRU,Brussel
+219.99,2023-07-20,10,FAO,Faro,BRU,Brussel
+219.99,2023-07-22,10,FAO,Faro,BRU,Brussel
+264.99,2023-07-23,10,FAO,Faro,BRU,Brussel
+174.99,2023-07-19,10,ALC,Alicante,BRU,Brussel
+179.99,2023-07-19,10,ALC,Alicante,BRU,Brussel
+189.99,2023-07-20,10,ALC,Alicante,BRU,Brussel
+234.99,2023-07-21,10,ALC,Alicante,BRU,Brussel
+194.99,2023-07-21,10,ALC,Alicante,BRU,Brussel
+214.99,2023-07-22,10,ALC,Alicante,BRU,Brussel
+214.99,2023-07-23,10,ALC,Alicante,BRU,Brussel
+169.99,2023-07-23,10,ALC,Alicante,BRU,Brussel
+229.99,2023-07-24,10,ALC,Alicante,BRU,Brussel
+204.99,2023-07-25,10,ALC,Alicante,BRU,Brussel
+139.99,2023-07-19,10,IBZ,Ibiza,BRU,Brussel
+209.99,2023-07-20,10,IBZ,Ibiza,BRU,Brussel
+189.99,2023-07-22,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-07-23,10,IBZ,Ibiza,BRU,Brussel
+154.99,2023-07-25,10,IBZ,Ibiza,BRU,Brussel
+179.99,2023-07-19,10,AGP,Malaga,BRU,Brussel
+194.99,2023-07-20,10,AGP,Malaga,BRU,Brussel
+249.99,2023-07-21,10,AGP,Malaga,BRU,Brussel
+249.99,2023-07-21,10,AGP,Malaga,BRU,Brussel
+249.99,2023-07-22,10,AGP,Malaga,BRU,Brussel
+214.99,2023-07-23,10,AGP,Malaga,BRU,Brussel
+184.99,2023-07-23,10,AGP,Malaga,BRU,Brussel
+219.99,2023-07-24,10,AGP,Malaga,BRU,Brussel
+199.99,2023-07-25,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-19,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-07-20,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-07-21,10,PMI,Palma de Mallorca,BRU,Brussel
+189.99,2023-07-22,10,PMI,Palma de Mallorca,BRU,Brussel
+194.99,2023-07-22,10,PMI,Palma de Mallorca,BRU,Brussel
+239.99,2023-07-23,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-07-24,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-07-25,10,PMI,Palma de Mallorca,BRU,Brussel
+289.99,2023-07-19,10,TFS,Tenerife,BRU,Brussel
+284.99,2023-07-19,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-07-20,10,TFS,Tenerife,BRU,Brussel
+459.99,2023-07-21,10,TFS,Tenerife,BRU,Brussel
+319.99,2023-07-21,10,TFS,Tenerife,BRU,Brussel
+459.99,2023-07-22,10,TFS,Tenerife,BRU,Brussel
+319.99,2023-07-22,10,TFS,Tenerife,BRU,Brussel
+319.99,2023-07-23,10,TFS,Tenerife,BRU,Brussel
+419.99,2023-07-24,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-07-24,10,TFS,Tenerife,BRU,Brussel
+339.99,2023-07-25,10,TFS,Tenerife,BRU,Brussel
+249.99,2023-07-28,10,CFU,Corfu,BRU,Brussel
+369.99,2023-07-30,10,CFU,Corfu,BRU,Brussel
+329.99,2023-07-31,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-01,10,CFU,Corfu,BRU,Brussel
+369.99,2023-07-26,10,HER,Kreta-Heraklion,BRU,Brussel
+274.99,2023-07-27,10,HER,Kreta-Heraklion,BRU,Brussel
+339.99,2023-07-28,10,HER,Kreta-Heraklion,BRU,Brussel
+369.99,2023-07-29,10,HER,Kreta-Heraklion,BRU,Brussel
+269.99,2023-07-30,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-07-31,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-01,10,HER,Kreta-Heraklion,BRU,Brussel
+249.99,2023-07-26,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-27,10,RHO,Rhodos,BRU,Brussel
+369.99,2023-07-28,10,RHO,Rhodos,BRU,Brussel
+279.99,2023-07-29,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-07-30,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-07-31,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-01,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-07-29,10,BDS,Brindisi,BRU,Brussel
+199.99,2023-08-01,10,BDS,Brindisi,BRU,Brussel
+239.99,2023-07-28,10,NAP,Napels,BRU,Brussel
+244.99,2023-07-31,10,NAP,Napels,BRU,Brussel
+359.99,2023-07-28,10,PMO,Palermo,BRU,Brussel
+299.99,2023-07-31,10,PMO,Palermo,BRU,Brussel
+219.99,2023-07-27,10,FAO,Faro,BRU,Brussel
+219.99,2023-07-29,10,FAO,Faro,BRU,Brussel
+189.99,2023-07-30,10,FAO,Faro,BRU,Brussel
+149.99,2023-07-26,10,ALC,Alicante,BRU,Brussel
+179.99,2023-07-26,10,ALC,Alicante,BRU,Brussel
+149.99,2023-07-27,10,ALC,Alicante,BRU,Brussel
+164.99,2023-07-28,10,ALC,Alicante,BRU,Brussel
+154.99,2023-07-28,10,ALC,Alicante,BRU,Brussel
+199.99,2023-07-29,10,ALC,Alicante,BRU,Brussel
+169.99,2023-07-30,10,ALC,Alicante,BRU,Brussel
+154.99,2023-07-30,10,ALC,Alicante,BRU,Brussel
+209.99,2023-07-31,10,ALC,Alicante,BRU,Brussel
+209.99,2023-08-01,10,ALC,Alicante,BRU,Brussel
+164.99,2023-07-26,10,IBZ,Ibiza,BRU,Brussel
+134.99,2023-07-27,10,IBZ,Ibiza,BRU,Brussel
+189.99,2023-07-29,10,IBZ,Ibiza,BRU,Brussel
+139.99,2023-07-30,10,IBZ,Ibiza,BRU,Brussel
+139.99,2023-08-01,10,IBZ,Ibiza,BRU,Brussel
+169.99,2023-07-26,10,AGP,Malaga,BRU,Brussel
+184.99,2023-07-27,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-28,10,AGP,Malaga,BRU,Brussel
+159.99,2023-07-28,10,AGP,Malaga,BRU,Brussel
+174.99,2023-07-29,10,AGP,Malaga,BRU,Brussel
+169.99,2023-07-30,10,AGP,Malaga,BRU,Brussel
+159.99,2023-07-30,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-31,10,AGP,Malaga,BRU,Brussel
+209.99,2023-08-01,10,AGP,Malaga,BRU,Brussel
+209.99,2023-07-26,10,PMI,Palma de Mallorca,BRU,Brussel
+139.99,2023-07-27,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-07-28,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-07-29,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-07-29,10,PMI,Palma de Mallorca,BRU,Brussel
+204.99,2023-07-30,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-07-31,10,PMI,Palma de Mallorca,BRU,Brussel
+199.99,2023-08-01,10,PMI,Palma de Mallorca,BRU,Brussel
+339.99,2023-07-26,10,TFS,Tenerife,BRU,Brussel
+284.99,2023-07-26,10,TFS,Tenerife,BRU,Brussel
+284.99,2023-07-27,10,TFS,Tenerife,BRU,Brussel
+379.99,2023-07-28,10,TFS,Tenerife,BRU,Brussel
+299.99,2023-07-28,10,TFS,Tenerife,BRU,Brussel
+349.99,2023-07-29,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-07-29,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-07-30,10,TFS,Tenerife,BRU,Brussel
+389.99,2023-07-31,10,TFS,Tenerife,BRU,Brussel
+269.99,2023-07-31,10,TFS,Tenerife,BRU,Brussel
+389.99,2023-08-01,10,TFS,Tenerife,BRU,Brussel
+329.99,2023-08-04,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-06,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-07,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-08,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-02,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-03,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-04,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-05,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-08-06,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-07,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-08,10,HER,Kreta-Heraklion,BRU,Brussel
+224.99,2023-08-02,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-03,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-04,10,RHO,Rhodos,BRU,Brussel
+289.99,2023-08-05,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-08-06,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-07,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-08,10,RHO,Rhodos,BRU,Brussel
+199.99,2023-08-05,10,BDS,Brindisi,BRU,Brussel
+169.99,2023-08-08,10,BDS,Brindisi,BRU,Brussel
+349.99,2023-08-04,10,NAP,Napels,BRU,Brussel
+309.99,2023-08-07,10,NAP,Napels,BRU,Brussel
+359.99,2023-08-04,10,PMO,Palermo,BRU,Brussel
+359.99,2023-08-07,10,PMO,Palermo,BRU,Brussel
+219.99,2023-08-03,10,FAO,Faro,BRU,Brussel
+219.99,2023-08-05,10,FAO,Faro,BRU,Brussel
+179.99,2023-08-06,10,FAO,Faro,BRU,Brussel
+139.99,2023-08-02,10,ALC,Alicante,BRU,Brussel
+144.99,2023-08-02,10,ALC,Alicante,BRU,Brussel
+134.99,2023-08-03,10,ALC,Alicante,BRU,Brussel
+154.99,2023-08-04,10,ALC,Alicante,BRU,Brussel
+149.99,2023-08-04,10,ALC,Alicante,BRU,Brussel
+179.99,2023-08-05,10,ALC,Alicante,BRU,Brussel
+149.99,2023-08-06,10,ALC,Alicante,BRU,Brussel
+124.99,2023-08-06,10,ALC,Alicante,BRU,Brussel
+209.99,2023-08-07,10,ALC,Alicante,BRU,Brussel
+134.99,2023-08-08,10,ALC,Alicante,BRU,Brussel
+164.99,2023-08-02,10,IBZ,Ibiza,BRU,Brussel
+164.99,2023-08-03,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-08-05,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-08-06,10,IBZ,Ibiza,BRU,Brussel
+134.99,2023-08-08,10,IBZ,Ibiza,BRU,Brussel
+204.99,2023-08-02,10,AGP,Malaga,BRU,Brussel
+134.99,2023-08-03,10,AGP,Malaga,BRU,Brussel
+149.99,2023-08-04,10,AGP,Malaga,BRU,Brussel
+144.99,2023-08-04,10,AGP,Malaga,BRU,Brussel
+209.99,2023-08-05,10,AGP,Malaga,BRU,Brussel
+144.99,2023-08-06,10,AGP,Malaga,BRU,Brussel
+139.99,2023-08-06,10,AGP,Malaga,BRU,Brussel
+159.99,2023-08-07,10,AGP,Malaga,BRU,Brussel
+159.99,2023-08-08,10,AGP,Malaga,BRU,Brussel
+209.99,2023-08-02,10,PMI,Palma de Mallorca,BRU,Brussel
+139.99,2023-08-03,10,PMI,Palma de Mallorca,BRU,Brussel
+204.99,2023-08-04,10,PMI,Palma de Mallorca,BRU,Brussel
+189.99,2023-08-05,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-08-05,10,PMI,Palma de Mallorca,BRU,Brussel
+244.99,2023-08-06,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-08-07,10,PMI,Palma de Mallorca,BRU,Brussel
+129.99,2023-08-08,10,PMI,Palma de Mallorca,BRU,Brussel
+329.99,2023-08-02,10,TFS,Tenerife,BRU,Brussel
+269.99,2023-08-02,10,TFS,Tenerife,BRU,Brussel
+259.99,2023-08-03,10,TFS,Tenerife,BRU,Brussel
+299.99,2023-08-04,10,TFS,Tenerife,BRU,Brussel
+239.99,2023-08-04,10,TFS,Tenerife,BRU,Brussel
+299.99,2023-08-05,10,TFS,Tenerife,BRU,Brussel
+249.99,2023-08-05,10,TFS,Tenerife,BRU,Brussel
+244.99,2023-08-06,10,TFS,Tenerife,BRU,Brussel
+299.99,2023-08-07,10,TFS,Tenerife,BRU,Brussel
+244.99,2023-08-07,10,TFS,Tenerife,BRU,Brussel
+244.99,2023-08-08,10,TFS,Tenerife,BRU,Brussel
+299.99,2023-08-11,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-13,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-14,10,CFU,Corfu,BRU,Brussel
+329.99,2023-08-15,10,CFU,Corfu,BRU,Brussel
+229.99,2023-08-09,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-10,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-08-11,10,HER,Kreta-Heraklion,BRU,Brussel
+309.99,2023-08-12,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-08-13,10,HER,Kreta-Heraklion,BRU,Brussel
+329.99,2023-08-14,10,HER,Kreta-Heraklion,BRU,Brussel
+284.99,2023-08-15,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-08-09,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-10,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-11,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-08-12,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-08-13,10,RHO,Rhodos,BRU,Brussel
+329.99,2023-08-14,10,RHO,Rhodos,BRU,Brussel
+294.99,2023-08-15,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-08-12,10,BDS,Brindisi,BRU,Brussel
+169.99,2023-08-15,10,BDS,Brindisi,BRU,Brussel
+239.99,2023-08-11,10,NAP,Napels,BRU,Brussel
+339.99,2023-08-14,10,NAP,Napels,BRU,Brussel
+239.99,2023-08-11,10,PMO,Palermo,BRU,Brussel
+329.99,2023-08-14,10,PMO,Palermo,BRU,Brussel
+169.99,2023-08-10,10,FAO,Faro,BRU,Brussel
+219.99,2023-08-12,10,FAO,Faro,BRU,Brussel
+169.99,2023-08-13,10,FAO,Faro,BRU,Brussel
+119.99,2023-08-09,10,ALC,Alicante,BRU,Brussel
+124.99,2023-08-09,10,ALC,Alicante,BRU,Brussel
+129.99,2023-08-10,10,ALC,Alicante,BRU,Brussel
+139.99,2023-08-11,10,ALC,Alicante,BRU,Brussel
+124.99,2023-08-11,10,ALC,Alicante,BRU,Brussel
+159.99,2023-08-12,10,ALC,Alicante,BRU,Brussel
+134.99,2023-08-13,10,ALC,Alicante,BRU,Brussel
+124.99,2023-08-13,10,ALC,Alicante,BRU,Brussel
+149.99,2023-08-14,10,ALC,Alicante,BRU,Brussel
+134.99,2023-08-15,10,ALC,Alicante,BRU,Brussel
+129.99,2023-08-09,10,IBZ,Ibiza,BRU,Brussel
+164.99,2023-08-10,10,IBZ,Ibiza,BRU,Brussel
+199.99,2023-08-12,10,IBZ,Ibiza,BRU,Brussel
+139.99,2023-08-13,10,IBZ,Ibiza,BRU,Brussel
+119.99,2023-08-15,10,IBZ,Ibiza,BRU,Brussel
+144.99,2023-08-09,10,AGP,Malaga,BRU,Brussel
+119.99,2023-08-10,10,AGP,Malaga,BRU,Brussel
+154.99,2023-08-11,10,AGP,Malaga,BRU,Brussel
+124.99,2023-08-11,10,AGP,Malaga,BRU,Brussel
+209.99,2023-08-12,10,AGP,Malaga,BRU,Brussel
+124.99,2023-08-13,10,AGP,Malaga,BRU,Brussel
+114.99,2023-08-13,10,AGP,Malaga,BRU,Brussel
+159.99,2023-08-14,10,AGP,Malaga,BRU,Brussel
+154.99,2023-08-15,10,AGP,Malaga,BRU,Brussel
+199.99,2023-08-09,10,PMI,Palma de Mallorca,BRU,Brussel
+119.99,2023-08-10,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-08-11,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-08-12,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-08-12,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-08-13,10,PMI,Palma de Mallorca,BRU,Brussel
+234.99,2023-08-14,10,PMI,Palma de Mallorca,BRU,Brussel
+129.99,2023-08-15,10,PMI,Palma de Mallorca,BRU,Brussel
+244.99,2023-08-09,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-08-09,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-08-10,10,TFS,Tenerife,BRU,Brussel
+284.99,2023-08-11,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-08-11,10,TFS,Tenerife,BRU,Brussel
+294.99,2023-08-12,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-08-12,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-08-13,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-08-14,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-08-14,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-08-15,10,TFS,Tenerife,BRU,Brussel
+254.99,2023-08-18,10,CFU,Corfu,BRU,Brussel
+254.99,2023-08-20,10,CFU,Corfu,BRU,Brussel
+219.99,2023-08-21,10,CFU,Corfu,BRU,Brussel
+169.99,2023-08-22,10,CFU,Corfu,BRU,Brussel
+254.99,2023-08-16,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-08-17,10,HER,Kreta-Heraklion,BRU,Brussel
+254.99,2023-08-18,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-08-19,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-08-20,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-08-21,10,HER,Kreta-Heraklion,BRU,Brussel
+184.99,2023-08-22,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-08-16,10,RHO,Rhodos,BRU,Brussel
+289.99,2023-08-17,10,RHO,Rhodos,BRU,Brussel
+294.99,2023-08-18,10,RHO,Rhodos,BRU,Brussel
+199.99,2023-08-19,10,RHO,Rhodos,BRU,Brussel
+199.99,2023-08-20,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-08-21,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-08-22,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-08-19,10,BDS,Brindisi,BRU,Brussel
+149.99,2023-08-22,10,BDS,Brindisi,BRU,Brussel
+244.99,2023-08-18,10,NAP,Napels,BRU,Brussel
+169.99,2023-08-21,10,NAP,Napels,BRU,Brussel
+264.99,2023-08-18,10,PMO,Palermo,BRU,Brussel
+179.99,2023-08-21,10,PMO,Palermo,BRU,Brussel
+189.99,2023-08-17,10,FAO,Faro,BRU,Brussel
+139.99,2023-08-19,10,FAO,Faro,BRU,Brussel
+139.99,2023-08-20,10,FAO,Faro,BRU,Brussel
+124.99,2023-08-16,10,ALC,Alicante,BRU,Brussel
+124.99,2023-08-16,10,ALC,Alicante,BRU,Brussel
+119.99,2023-08-17,10,ALC,Alicante,BRU,Brussel
+119.99,2023-08-18,10,ALC,Alicante,BRU,Brussel
+114.99,2023-08-18,10,ALC,Alicante,BRU,Brussel
+124.99,2023-08-19,10,ALC,Alicante,BRU,Brussel
+184.99,2023-08-20,10,ALC,Alicante,BRU,Brussel
+109.99,2023-08-20,10,ALC,Alicante,BRU,Brussel
+119.99,2023-08-21,10,ALC,Alicante,BRU,Brussel
+119.99,2023-08-22,10,ALC,Alicante,BRU,Brussel
+129.99,2023-08-16,10,IBZ,Ibiza,BRU,Brussel
+119.99,2023-08-17,10,IBZ,Ibiza,BRU,Brussel
+124.99,2023-08-19,10,IBZ,Ibiza,BRU,Brussel
+109.99,2023-08-20,10,IBZ,Ibiza,BRU,Brussel
+95.99,2023-08-22,10,IBZ,Ibiza,BRU,Brussel
+129.99,2023-08-16,10,AGP,Malaga,BRU,Brussel
+119.99,2023-08-17,10,AGP,Malaga,BRU,Brussel
+124.99,2023-08-18,10,AGP,Malaga,BRU,Brussel
+134.99,2023-08-18,10,AGP,Malaga,BRU,Brussel
+119.99,2023-08-19,10,AGP,Malaga,BRU,Brussel
+114.99,2023-08-20,10,AGP,Malaga,BRU,Brussel
+109.99,2023-08-20,10,AGP,Malaga,BRU,Brussel
+149.99,2023-08-21,10,AGP,Malaga,BRU,Brussel
+114.99,2023-08-22,10,AGP,Malaga,BRU,Brussel
+144.99,2023-08-16,10,PMI,Palma de Mallorca,BRU,Brussel
+119.99,2023-08-17,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-08-18,10,PMI,Palma de Mallorca,BRU,Brussel
+124.99,2023-08-19,10,PMI,Palma de Mallorca,BRU,Brussel
+119.99,2023-08-19,10,PMI,Palma de Mallorca,BRU,Brussel
+139.99,2023-08-20,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-08-21,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-08-22,10,PMI,Palma de Mallorca,BRU,Brussel
+194.99,2023-08-16,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-08-16,10,TFS,Tenerife,BRU,Brussel
+184.99,2023-08-17,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-08-18,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-18,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-08-19,10,TFS,Tenerife,BRU,Brussel
+184.99,2023-08-19,10,TFS,Tenerife,BRU,Brussel
+184.99,2023-08-20,10,TFS,Tenerife,BRU,Brussel
+224.99,2023-08-21,10,TFS,Tenerife,BRU,Brussel
+184.99,2023-08-21,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-22,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-25,10,CFU,Corfu,BRU,Brussel
+169.99,2023-08-27,10,CFU,Corfu,BRU,Brussel
+214.99,2023-08-28,10,CFU,Corfu,BRU,Brussel
+184.99,2023-08-29,10,CFU,Corfu,BRU,Brussel
+149.99,2023-08-23,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-08-24,10,HER,Kreta-Heraklion,BRU,Brussel
+154.99,2023-08-25,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-08-26,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-08-27,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-08-28,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-08-29,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-08-23,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-08-24,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-08-25,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-08-26,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-08-27,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-08-28,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-08-29,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-08-26,10,BDS,Brindisi,BRU,Brussel
+189.99,2023-08-29,10,BDS,Brindisi,BRU,Brussel
+139.99,2023-08-25,10,NAP,Napels,BRU,Brussel
+139.99,2023-08-28,10,NAP,Napels,BRU,Brussel
+169.99,2023-08-25,10,PMO,Palermo,BRU,Brussel
+169.99,2023-08-28,10,PMO,Palermo,BRU,Brussel
+119.99,2023-08-24,10,FAO,Faro,BRU,Brussel
+119.99,2023-08-26,10,FAO,Faro,BRU,Brussel
+119.99,2023-08-27,10,FAO,Faro,BRU,Brussel
+109.99,2023-08-23,10,ALC,Alicante,BRU,Brussel
+114.99,2023-08-23,10,ALC,Alicante,BRU,Brussel
+109.99,2023-08-24,10,ALC,Alicante,BRU,Brussel
+109.99,2023-08-25,10,ALC,Alicante,BRU,Brussel
+109.99,2023-08-25,10,ALC,Alicante,BRU,Brussel
+114.99,2023-08-26,10,ALC,Alicante,BRU,Brussel
+114.99,2023-08-27,10,ALC,Alicante,BRU,Brussel
+109.99,2023-08-27,10,ALC,Alicante,BRU,Brussel
+109.99,2023-08-28,10,ALC,Alicante,BRU,Brussel
+104.99,2023-08-29,10,ALC,Alicante,BRU,Brussel
+99.99,2023-08-23,10,IBZ,Ibiza,BRU,Brussel
+99.99,2023-08-24,10,IBZ,Ibiza,BRU,Brussel
+99.99,2023-08-26,10,IBZ,Ibiza,BRU,Brussel
+95.99,2023-08-27,10,IBZ,Ibiza,BRU,Brussel
+69.99,2023-08-29,10,IBZ,Ibiza,BRU,Brussel
+109.99,2023-08-23,10,AGP,Malaga,BRU,Brussel
+114.99,2023-08-24,10,AGP,Malaga,BRU,Brussel
+119.99,2023-08-25,10,AGP,Malaga,BRU,Brussel
+114.99,2023-08-25,10,AGP,Malaga,BRU,Brussel
+119.99,2023-08-26,10,AGP,Malaga,BRU,Brussel
+114.99,2023-08-27,10,AGP,Malaga,BRU,Brussel
+109.99,2023-08-27,10,AGP,Malaga,BRU,Brussel
+104.99,2023-08-28,10,AGP,Malaga,BRU,Brussel
+104.99,2023-08-29,10,AGP,Malaga,BRU,Brussel
+124.99,2023-08-23,10,PMI,Palma de Mallorca,BRU,Brussel
+95.99,2023-08-24,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-08-25,10,PMI,Palma de Mallorca,BRU,Brussel
+95.99,2023-08-26,10,PMI,Palma de Mallorca,BRU,Brussel
+89.99,2023-08-26,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-08-27,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-08-28,10,PMI,Palma de Mallorca,BRU,Brussel
+69.99,2023-08-29,10,PMI,Palma de Mallorca,BRU,Brussel
+189.99,2023-08-23,10,TFS,Tenerife,BRU,Brussel
+184.99,2023-08-23,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-24,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-08-25,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-25,10,TFS,Tenerife,BRU,Brussel
+194.99,2023-08-26,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-26,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-27,10,TFS,Tenerife,BRU,Brussel
+224.99,2023-08-28,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-28,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-08-29,10,TFS,Tenerife,BRU,Brussel
+169.99,2023-09-01,10,CFU,Corfu,BRU,Brussel
+209.99,2023-09-03,10,CFU,Corfu,BRU,Brussel
+214.99,2023-09-04,10,CFU,Corfu,BRU,Brussel
+169.99,2023-09-05,10,CFU,Corfu,BRU,Brussel
+169.99,2023-08-30,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-08-31,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-01,10,HER,Kreta-Heraklion,BRU,Brussel
+194.99,2023-09-02,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-03,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-04,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-08-30,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-08-31,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-01,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-02,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-03,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-04,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-05,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-02,10,BDS,Brindisi,BRU,Brussel
+149.99,2023-09-05,10,BDS,Brindisi,BRU,Brussel
+139.99,2023-09-01,10,NAP,Napels,BRU,Brussel
+159.99,2023-09-04,10,NAP,Napels,BRU,Brussel
+189.99,2023-09-01,10,PMO,Palermo,BRU,Brussel
+144.99,2023-09-04,10,PMO,Palermo,BRU,Brussel
+119.99,2023-08-31,10,FAO,Faro,BRU,Brussel
+154.99,2023-09-03,10,FAO,Faro,BRU,Brussel
+85.99,2023-08-30,10,ALC,Alicante,BRU,Brussel
+91.99,2023-08-30,10,ALC,Alicante,BRU,Brussel
+95.99,2023-08-31,10,ALC,Alicante,BRU,Brussel
+134.99,2023-09-01,10,ALC,Alicante,BRU,Brussel
+134.99,2023-09-02,10,ALC,Alicante,BRU,Brussel
+104.99,2023-09-03,10,ALC,Alicante,BRU,Brussel
+109.99,2023-09-04,10,ALC,Alicante,BRU,Brussel
+95.99,2023-09-05,10,ALC,Alicante,BRU,Brussel
+75.99,2023-08-30,10,IBZ,Ibiza,BRU,Brussel
+99.99,2023-08-31,10,IBZ,Ibiza,BRU,Brussel
+149.99,2023-09-02,10,IBZ,Ibiza,BRU,Brussel
+79.99,2023-09-03,10,IBZ,Ibiza,BRU,Brussel
+75.99,2023-09-05,10,IBZ,Ibiza,BRU,Brussel
+104.99,2023-08-30,10,AGP,Malaga,BRU,Brussel
+104.99,2023-08-31,10,AGP,Malaga,BRU,Brussel
+169.99,2023-09-01,10,AGP,Malaga,BRU,Brussel
+169.99,2023-09-02,10,AGP,Malaga,BRU,Brussel
+114.99,2023-09-03,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-04,10,AGP,Malaga,BRU,Brussel
+109.99,2023-09-05,10,AGP,Malaga,BRU,Brussel
+89.99,2023-08-30,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-08-31,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-09-01,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-09-02,10,PMI,Palma de Mallorca,BRU,Brussel
+95.99,2023-09-03,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-09-04,10,PMI,Palma de Mallorca,BRU,Brussel
+69.99,2023-09-05,10,PMI,Palma de Mallorca,BRU,Brussel
+219.99,2023-08-30,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-08-30,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-08-31,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-09-01,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-09-01,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-09-02,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-09-03,10,TFS,Tenerife,BRU,Brussel
+239.99,2023-09-04,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-09-05,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-09-08,10,CFU,Corfu,BRU,Brussel
+219.99,2023-09-10,10,CFU,Corfu,BRU,Brussel
+219.99,2023-09-11,10,CFU,Corfu,BRU,Brussel
+199.99,2023-09-12,10,CFU,Corfu,BRU,Brussel
+214.99,2023-09-06,10,HER,Kreta-Heraklion,BRU,Brussel
+184.99,2023-09-07,10,HER,Kreta-Heraklion,BRU,Brussel
+174.99,2023-09-08,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-09,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-10,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-11,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-07,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-08,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-09,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-10,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-11,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-12,10,RHO,Rhodos,BRU,Brussel
+179.99,2023-09-12,10,BDS,Brindisi,BRU,Brussel
+179.99,2023-09-08,10,NAP,Napels,BRU,Brussel
+174.99,2023-09-11,10,NAP,Napels,BRU,Brussel
+174.99,2023-09-08,10,PMO,Palermo,BRU,Brussel
+179.99,2023-09-11,10,PMO,Palermo,BRU,Brussel
+154.99,2023-09-07,10,FAO,Faro,BRU,Brussel
+129.99,2023-09-10,10,FAO,Faro,BRU,Brussel
+95.99,2023-09-06,10,ALC,Alicante,BRU,Brussel
+85.99,2023-09-06,10,ALC,Alicante,BRU,Brussel
+85.99,2023-09-07,10,ALC,Alicante,BRU,Brussel
+104.99,2023-09-08,10,ALC,Alicante,BRU,Brussel
+109.99,2023-09-09,10,ALC,Alicante,BRU,Brussel
+85.99,2023-09-10,10,ALC,Alicante,BRU,Brussel
+104.99,2023-09-11,10,ALC,Alicante,BRU,Brussel
+85.99,2023-09-12,10,ALC,Alicante,BRU,Brussel
+189.99,2023-09-07,10,IBZ,Ibiza,BRU,Brussel
+164.99,2023-09-09,10,IBZ,Ibiza,BRU,Brussel
+79.99,2023-09-10,10,IBZ,Ibiza,BRU,Brussel
+85.99,2023-09-12,10,IBZ,Ibiza,BRU,Brussel
+104.99,2023-09-06,10,AGP,Malaga,BRU,Brussel
+109.99,2023-09-07,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-08,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-09,10,AGP,Malaga,BRU,Brussel
+109.99,2023-09-10,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-11,10,AGP,Malaga,BRU,Brussel
+114.99,2023-09-12,10,AGP,Malaga,BRU,Brussel
+99.99,2023-09-06,10,PMI,Palma de Mallorca,BRU,Brussel
+69.99,2023-09-07,10,PMI,Palma de Mallorca,BRU,Brussel
+93.99,2023-09-08,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-09-09,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-09-10,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-09-11,10,PMI,Palma de Mallorca,BRU,Brussel
+81.99,2023-09-12,10,PMI,Palma de Mallorca,BRU,Brussel
+184.99,2023-09-06,10,TFS,Tenerife,BRU,Brussel
+179.99,2023-09-07,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-09-08,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-09-08,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-09-09,10,TFS,Tenerife,BRU,Brussel
+194.99,2023-09-10,10,TFS,Tenerife,BRU,Brussel
+239.99,2023-09-11,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-09-12,10,TFS,Tenerife,BRU,Brussel
+169.99,2023-09-15,10,CFU,Corfu,BRU,Brussel
+174.99,2023-09-17,10,CFU,Corfu,BRU,Brussel
+194.99,2023-09-18,10,CFU,Corfu,BRU,Brussel
+219.99,2023-09-19,10,CFU,Corfu,BRU,Brussel
+199.99,2023-09-13,10,HER,Kreta-Heraklion,BRU,Brussel
+174.99,2023-09-14,10,HER,Kreta-Heraklion,BRU,Brussel
+214.99,2023-09-15,10,HER,Kreta-Heraklion,BRU,Brussel
+209.99,2023-09-16,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-17,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-18,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-14,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-15,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-16,10,RHO,Rhodos,BRU,Brussel
+184.99,2023-09-17,10,RHO,Rhodos,BRU,Brussel
+234.99,2023-09-18,10,RHO,Rhodos,BRU,Brussel
+229.99,2023-09-19,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-09-16,10,BDS,Brindisi,BRU,Brussel
+149.99,2023-09-19,10,BDS,Brindisi,BRU,Brussel
+179.99,2023-09-15,10,NAP,Napels,BRU,Brussel
+164.99,2023-09-18,10,NAP,Napels,BRU,Brussel
+179.99,2023-09-15,10,PMO,Palermo,BRU,Brussel
+179.99,2023-09-18,10,PMO,Palermo,BRU,Brussel
+154.99,2023-09-14,10,FAO,Faro,BRU,Brussel
+119.99,2023-09-17,10,FAO,Faro,BRU,Brussel
+79.99,2023-09-13,10,ALC,Alicante,BRU,Brussel
+89.99,2023-09-13,10,ALC,Alicante,BRU,Brussel
+85.99,2023-09-14,10,ALC,Alicante,BRU,Brussel
+104.99,2023-09-15,10,ALC,Alicante,BRU,Brussel
+114.99,2023-09-16,10,ALC,Alicante,BRU,Brussel
+99.99,2023-09-17,10,ALC,Alicante,BRU,Brussel
+99.99,2023-09-18,10,ALC,Alicante,BRU,Brussel
+87.99,2023-09-19,10,ALC,Alicante,BRU,Brussel
+219.99,2023-09-14,10,IBZ,Ibiza,BRU,Brussel
+164.99,2023-09-16,10,IBZ,Ibiza,BRU,Brussel
+89.99,2023-09-17,10,IBZ,Ibiza,BRU,Brussel
+75.99,2023-09-19,10,IBZ,Ibiza,BRU,Brussel
+114.99,2023-09-13,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-14,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-15,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-16,10,AGP,Malaga,BRU,Brussel
+104.99,2023-09-17,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-18,10,AGP,Malaga,BRU,Brussel
+104.99,2023-09-19,10,AGP,Malaga,BRU,Brussel
+85.99,2023-09-13,10,PMI,Palma de Mallorca,BRU,Brussel
+69.99,2023-09-14,10,PMI,Palma de Mallorca,BRU,Brussel
+104.99,2023-09-15,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-09-16,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-09-17,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-09-18,10,PMI,Palma de Mallorca,BRU,Brussel
+95.99,2023-09-19,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-09-13,10,TFS,Tenerife,BRU,Brussel
+169.99,2023-09-14,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-09-15,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-09-15,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-09-16,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-09-17,10,TFS,Tenerife,BRU,Brussel
+239.99,2023-09-18,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-09-19,10,TFS,Tenerife,BRU,Brussel
+169.99,2023-09-22,10,CFU,Corfu,BRU,Brussel
+219.99,2023-09-24,10,CFU,Corfu,BRU,Brussel
+204.99,2023-09-25,10,CFU,Corfu,BRU,Brussel
+169.99,2023-09-26,10,CFU,Corfu,BRU,Brussel
+169.99,2023-09-20,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-21,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-22,10,HER,Kreta-Heraklion,BRU,Brussel
+214.99,2023-09-23,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-09-24,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-25,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-21,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-22,10,RHO,Rhodos,BRU,Brussel
+189.99,2023-09-23,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-24,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-25,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-26,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-09-23,10,BDS,Brindisi,BRU,Brussel
+119.99,2023-09-26,10,BDS,Brindisi,BRU,Brussel
+139.99,2023-09-22,10,NAP,Napels,BRU,Brussel
+144.99,2023-09-25,10,NAP,Napels,BRU,Brussel
+179.99,2023-09-22,10,PMO,Palermo,BRU,Brussel
+179.99,2023-09-25,10,PMO,Palermo,BRU,Brussel
+154.99,2023-09-21,10,FAO,Faro,BRU,Brussel
+134.99,2023-09-24,10,FAO,Faro,BRU,Brussel
+95.99,2023-09-20,10,ALC,Alicante,BRU,Brussel
+93.99,2023-09-20,10,ALC,Alicante,BRU,Brussel
+99.99,2023-09-21,10,ALC,Alicante,BRU,Brussel
+104.99,2023-09-22,10,ALC,Alicante,BRU,Brussel
+149.99,2023-09-23,10,ALC,Alicante,BRU,Brussel
+85.99,2023-09-24,10,ALC,Alicante,BRU,Brussel
+93.99,2023-09-25,10,ALC,Alicante,BRU,Brussel
+93.99,2023-09-26,10,ALC,Alicante,BRU,Brussel
+199.99,2023-09-21,10,IBZ,Ibiza,BRU,Brussel
+104.99,2023-09-23,10,IBZ,Ibiza,BRU,Brussel
+79.99,2023-09-24,10,IBZ,Ibiza,BRU,Brussel
+75.99,2023-09-26,10,IBZ,Ibiza,BRU,Brussel
+159.99,2023-09-20,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-21,10,AGP,Malaga,BRU,Brussel
+114.99,2023-09-22,10,AGP,Malaga,BRU,Brussel
+109.99,2023-09-23,10,AGP,Malaga,BRU,Brussel
+95.99,2023-09-24,10,AGP,Malaga,BRU,Brussel
+104.99,2023-09-25,10,AGP,Malaga,BRU,Brussel
+109.99,2023-09-26,10,AGP,Malaga,BRU,Brussel
+104.99,2023-09-20,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-09-21,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-09-22,10,PMI,Palma de Mallorca,BRU,Brussel
+99.99,2023-09-23,10,PMI,Palma de Mallorca,BRU,Brussel
+81.99,2023-09-24,10,PMI,Palma de Mallorca,BRU,Brussel
+95.99,2023-09-25,10,PMI,Palma de Mallorca,BRU,Brussel
+89.99,2023-09-26,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-09-20,10,TFS,Tenerife,BRU,Brussel
+174.99,2023-09-21,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-09-22,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-09-22,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-09-23,10,TFS,Tenerife,BRU,Brussel
+194.99,2023-09-24,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-09-25,10,TFS,Tenerife,BRU,Brussel
+194.99,2023-09-26,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-09-29,10,CFU,Corfu,BRU,Brussel
+179.99,2023-10-01,10,CFU,Corfu,BRU,Brussel
+169.99,2023-10-02,10,CFU,Corfu,BRU,Brussel
+169.99,2023-10-03,10,CFU,Corfu,BRU,Brussel
+219.99,2023-09-27,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-28,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-29,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-09-30,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-10-01,10,HER,Kreta-Heraklion,BRU,Brussel
+149.99,2023-10-02,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-09-28,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-09-29,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-09-30,10,RHO,Rhodos,BRU,Brussel
+169.99,2023-10-01,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-10-03,10,RHO,Rhodos,BRU,Brussel
+124.99,2023-09-30,10,BDS,Brindisi,BRU,Brussel
+139.99,2023-09-29,10,NAP,Napels,BRU,Brussel
+139.99,2023-10-02,10,NAP,Napels,BRU,Brussel
+139.99,2023-09-29,10,PMO,Palermo,BRU,Brussel
+139.99,2023-10-02,10,PMO,Palermo,BRU,Brussel
+144.99,2023-09-28,10,FAO,Faro,BRU,Brussel
+179.99,2023-10-01,10,FAO,Faro,BRU,Brussel
+79.99,2023-09-27,10,ALC,Alicante,BRU,Brussel
+104.99,2023-09-27,10,ALC,Alicante,BRU,Brussel
+79.99,2023-09-28,10,ALC,Alicante,BRU,Brussel
+104.99,2023-09-29,10,ALC,Alicante,BRU,Brussel
+109.99,2023-09-30,10,ALC,Alicante,BRU,Brussel
+114.99,2023-10-01,10,ALC,Alicante,BRU,Brussel
+97.99,2023-10-02,10,ALC,Alicante,BRU,Brussel
+85.99,2023-10-03,10,ALC,Alicante,BRU,Brussel
+149.99,2023-09-28,10,IBZ,Ibiza,BRU,Brussel
+97.99,2023-09-30,10,IBZ,Ibiza,BRU,Brussel
+87.99,2023-10-01,10,IBZ,Ibiza,BRU,Brussel
+69.99,2023-10-03,10,IBZ,Ibiza,BRU,Brussel
+95.99,2023-09-27,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-28,10,AGP,Malaga,BRU,Brussel
+159.99,2023-09-29,10,AGP,Malaga,BRU,Brussel
+109.99,2023-09-30,10,AGP,Malaga,BRU,Brussel
+109.99,2023-10-01,10,AGP,Malaga,BRU,Brussel
+159.99,2023-10-02,10,AGP,Malaga,BRU,Brussel
+159.99,2023-10-03,10,AGP,Malaga,BRU,Brussel
+89.99,2023-09-27,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-09-28,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-09-29,10,PMI,Palma de Mallorca,BRU,Brussel
+83.99,2023-09-30,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-10-01,10,PMI,Palma de Mallorca,BRU,Brussel
+169.99,2023-10-02,10,PMI,Palma de Mallorca,BRU,Brussel
+87.99,2023-10-03,10,PMI,Palma de Mallorca,BRU,Brussel
+179.99,2023-09-27,10,TFS,Tenerife,BRU,Brussel
+174.99,2023-09-28,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-09-29,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-09-29,10,TFS,Tenerife,BRU,Brussel
+264.99,2023-09-30,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-10-01,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-10-02,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-10-03,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-10-06,10,CFU,Corfu,BRU,Brussel
+179.99,2023-10-08,10,CFU,Corfu,BRU,Brussel
+149.99,2023-10-04,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-10-05,10,HER,Kreta-Heraklion,BRU,Brussel
+189.99,2023-10-07,10,HER,Kreta-Heraklion,BRU,Brussel
+159.99,2023-10-08,10,HER,Kreta-Heraklion,BRU,Brussel
+219.99,2023-10-06,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-10-07,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-10-08,10,RHO,Rhodos,BRU,Brussel
+204.99,2023-10-10,10,RHO,Rhodos,BRU,Brussel
+139.99,2023-10-05,10,FAO,Faro,BRU,Brussel
+144.99,2023-10-08,10,FAO,Faro,BRU,Brussel
+79.99,2023-10-04,10,ALC,Alicante,BRU,Brussel
+75.99,2023-10-04,10,ALC,Alicante,BRU,Brussel
+75.99,2023-10-05,10,ALC,Alicante,BRU,Brussel
+93.99,2023-10-06,10,ALC,Alicante,BRU,Brussel
+93.99,2023-10-07,10,ALC,Alicante,BRU,Brussel
+75.99,2023-10-08,10,ALC,Alicante,BRU,Brussel
+87.99,2023-10-09,10,ALC,Alicante,BRU,Brussel
+83.99,2023-10-10,10,ALC,Alicante,BRU,Brussel
+104.99,2023-10-05,10,IBZ,Ibiza,BRU,Brussel
+89.99,2023-10-07,10,IBZ,Ibiza,BRU,Brussel
+93.99,2023-10-08,10,IBZ,Ibiza,BRU,Brussel
+104.99,2023-10-04,10,AGP,Malaga,BRU,Brussel
+419.99,2023-10-05,7,AGP,Malaga,BRU,Brussel
+159.99,2023-10-06,10,AGP,Malaga,BRU,Brussel
+95.99,2023-10-07,10,AGP,Malaga,BRU,Brussel
+77.99,2023-10-08,10,AGP,Malaga,BRU,Brussel
+159.99,2023-10-09,10,AGP,Malaga,BRU,Brussel
+104.99,2023-10-10,10,AGP,Malaga,BRU,Brussel
+99.99,2023-10-04,10,PMI,Palma de Mallorca,BRU,Brussel
+83.99,2023-10-05,10,PMI,Palma de Mallorca,BRU,Brussel
+149.99,2023-10-06,10,PMI,Palma de Mallorca,BRU,Brussel
+71.99,2023-10-08,10,PMI,Palma de Mallorca,BRU,Brussel
+89.99,2023-10-09,10,PMI,Palma de Mallorca,BRU,Brussel
+189.99,2023-10-04,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-10-05,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-10-06,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-10-06,10,TFS,Tenerife,BRU,Brussel
+234.99,2023-10-07,10,TFS,Tenerife,BRU,Brussel
+199.99,2023-10-08,10,TFS,Tenerife,BRU,Brussel
+214.99,2023-10-09,10,TFS,Tenerife,BRU,Brussel
+239.99,2023-10-10,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-10-15,10,CFU,Corfu,BRU,Brussel
+164.99,2023-10-12,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-10-14,10,HER,Kreta-Heraklion,BRU,Brussel
+169.99,2023-10-15,10,HER,Kreta-Heraklion,BRU,Brussel
+199.99,2023-10-13,10,RHO,Rhodos,BRU,Brussel
+249.99,2023-10-14,10,RHO,Rhodos,BRU,Brussel
+234.99,2023-10-15,10,RHO,Rhodos,BRU,Brussel
+149.99,2023-10-17,10,RHO,Rhodos,BRU,Brussel
+139.99,2023-10-15,10,FAO,Faro,BRU,Brussel
+75.99,2023-10-11,10,ALC,Alicante,BRU,Brussel
+75.99,2023-10-11,10,ALC,Alicante,BRU,Brussel
+89.99,2023-10-12,10,ALC,Alicante,BRU,Brussel
+87.99,2023-10-13,10,ALC,Alicante,BRU,Brussel
+129.99,2023-10-14,10,ALC,Alicante,BRU,Brussel
+199.99,2023-10-15,10,ALC,Alicante,BRU,Brussel
+69.99,2023-10-16,10,ALC,Alicante,BRU,Brussel
+75.99,2023-10-17,10,ALC,Alicante,BRU,Brussel
+99.99,2023-10-12,10,IBZ,Ibiza,BRU,Brussel
+124.99,2023-10-14,10,IBZ,Ibiza,BRU,Brussel
+109.99,2023-10-15,10,IBZ,Ibiza,BRU,Brussel
+77.99,2023-10-11,10,AGP,Malaga,BRU,Brussel
+91.99,2023-10-12,10,AGP,Malaga,BRU,Brussel
+99.99,2023-10-13,10,AGP,Malaga,BRU,Brussel
+154.99,2023-10-14,10,AGP,Malaga,BRU,Brussel
+144.99,2023-10-15,10,AGP,Malaga,BRU,Brussel
+91.99,2023-10-16,10,AGP,Malaga,BRU,Brussel
+159.99,2023-10-17,10,AGP,Malaga,BRU,Brussel
+79.99,2023-10-11,10,PMI,Palma de Mallorca,BRU,Brussel
+109.99,2023-10-13,10,PMI,Palma de Mallorca,BRU,Brussel
+109.99,2023-10-15,10,PMI,Palma de Mallorca,BRU,Brussel
+199.99,2023-10-11,10,TFS,Tenerife,BRU,Brussel
+189.99,2023-10-12,10,TFS,Tenerife,BRU,Brussel
+254.99,2023-10-13,10,TFS,Tenerife,BRU,Brussel
+209.99,2023-10-13,10,TFS,Tenerife,BRU,Brussel
+289.99,2023-10-14,10,TFS,Tenerife,BRU,Brussel
+219.99,2023-10-15,10,TFS,Tenerife,BRU,Brussel
+229.99,2023-10-16,10,TFS,Tenerife,BRU,Brussel
+204.99,2023-10-17,10,TFS,Tenerife,BRU,Brussel
+429.99,2023-10-21,10,HER,Kreta-Heraklion,BRU,Brussel
+449.99,2023-10-22,10,HER,Kreta-Heraklion,BRU,Brussel
+309.99,2023-10-20,10,RHO,Rhodos,BRU,Brussel
+449.99,2023-10-22,10,RHO,Rhodos,BRU,Brussel
+224.99,2023-10-24,10,RHO,Rhodos,BRU,Brussel
+219.99,2023-10-22,10,FAO,Faro,BRU,Brussel
+71.99,2023-10-18,10,ALC,Alicante,BRU,Brussel
+114.99,2023-10-18,10,ALC,Alicante,BRU,Brussel
+109.99,2023-10-19,10,ALC,Alicante,BRU,Brussel
+164.99,2023-10-20,10,ALC,Alicante,BRU,Brussel
+194.99,2023-10-21,10,ALC,Alicante,BRU,Brussel
+189.99,2023-10-22,10,ALC,Alicante,BRU,Brussel
+144.99,2023-10-23,10,ALC,Alicante,BRU,Brussel
+139.99,2023-10-24,10,ALC,Alicante,BRU,Brussel
+81.99,2023-10-18,10,AGP,Malaga,BRU,Brussel
+109.99,2023-10-19,10,AGP,Malaga,BRU,Brussel
+164.99,2023-10-20,10,AGP,Malaga,BRU,Brussel
+219.99,2023-10-21,10,AGP,Malaga,BRU,Brussel
+189.99,2023-10-22,10,AGP,Malaga,BRU,Brussel
+164.99,2023-10-23,10,AGP,Malaga,BRU,Brussel
+139.99,2023-10-24,10,AGP,Malaga,BRU,Brussel
+69.99,2023-10-18,10,PMI,Palma de Mallorca,BRU,Brussel
+119.99,2023-10-20,10,PMI,Palma de Mallorca,BRU,Brussel
+159.99,2023-10-22,10,PMI,Palma de Mallorca,BRU,Brussel
+209.99,2023-10-18,10,TFS,Tenerife,BRU,Brussel
+224.99,2023-10-19,10,TFS,Tenerife,BRU,Brussel
+369.99,2023-10-20,10,TFS,Tenerife,BRU,Brussel
+359.99,2023-10-20,10,TFS,Tenerife,BRU,Brussel
+429.99,2023-10-21,10,TFS,Tenerife,BRU,Brussel
+389.99,2023-10-22,10,TFS,Tenerife,BRU,Brussel
+429.99,2023-10-23,10,TFS,Tenerife,BRU,Brussel
+369.99,2023-10-24,10,TFS,Tenerife,BRU,Brussel
+139.99,2023-10-25,10,ALC,Alicante,BRU,Brussel
+139.99,2023-10-25,10,ALC,Alicante,BRU,Brussel
+139.99,2023-10-26,10,ALC,Alicante,BRU,Brussel
+139.99,2023-10-25,10,AGP,Malaga,BRU,Brussel
+139.99,2023-10-26,10,AGP,Malaga,BRU,Brussel
+299.99,2023-10-25,10,TFS,Tenerife,BRU,Brussel
+309.99,2023-10-26,10,TFS,Tenerife,BRU,Brussel
