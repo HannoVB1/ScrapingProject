@@ -12,7 +12,7 @@ import csv
 
 
 # open the file in the write mode
-f = open('C:\\Users\\hanno\\Desktop\\tui2.csv', 'w')
+f = open('C:\\Users\\hanno\\Desktop\\Data engineering project\\Tui\\tui3.csv', 'w')
 
 # create the csv writer
 writer = csv.writer(f)
@@ -33,7 +33,7 @@ arrayPages = []
 
 for DayLoop in Days:
     for DestinationLoop in DestinationArray:
-        k = open('C:\\Users\\hanno\\Desktop\\tui2.csv', 'a')
+        k = open('C:\\Users\\hanno\\Desktop\\Data engineering project\\Tui\\tui3.csv', 'a')
         writer2 = csv.writer(k)
         DateOut=DayLoop.strftime("%Y-%m-%d")
         Destination=DestinationLoop

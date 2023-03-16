@@ -5,11 +5,11 @@ import datetime
 import csv
 
 # open the file in the write mode
-f = open('C:\\Users\\hanno\\Desktop\\\\ryanair.csv', 'w')
+f = open('C:\\Users\\hanno\\Desktop\\Data engineering project\\Ryanair\\ryanair.csv', 'w')
 
 # create the csv writer
 writer = csv.writer(f)
-header = ['Price',"FlightNumber", 'Date of Departure','Date of Arrival','Available seats', 'Arrival Airport code', 'Arrival Airport name', "Departure Airport code", "Departure Airport name","Flight Duration","Scraping date"]
+header = ['Price',"FlightNumber", 'Date of Departure','Date of Arrival', 'Arrival Airport code', 'Arrival Airport name', "Departure Airport code", "Departure Airport name","Flight Duration","Scraping date"]
 writer.writerow(header)
 # close the file
 f.close()
@@ -48,12 +48,9 @@ for DayLoop in Days:
                                 tripDateOut = flight["time"][0]
                                 tripDateArrival = flight["time"][1]
                                 tripDuration = flight["duration"]
-                                tripAvailableSeats = flight["faresLeft"]
                                 tripPrice = flight["regularFare"]["fares"][0]["amount"]
                                 tripFlightNumber = flight["flightNumber"]
-                                if tripAvailableSeats == -1:
-                                    tripAvailableSeats = 0
-                                dataArray = [tripPrice,tripFlightNumber,tripDateOut,tripDateArrival,tripAvailableSeats,tripDestination,tripDestinationName,tripOrigin,tripOriginName,tripDuration,datetime.datetime.today().strftime('%Y-%m-%d %H:%M:%S')]
+                                dataArray = [tripPrice,tripFlightNumber,tripDateOut,tripDateArrival,tripDestination,tripDestinationName,tripOrigin,tripOriginName,tripDuration,datetime.datetime.today().strftime('%Y-%m-%d %H:%M:%S')]
                                 print(dataArray)
                                 writer2.writerow(dataArray)
             k.close()
