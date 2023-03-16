@@ -1,0 +1,243 @@
+{
+  "origin": "CRL",
+  "originName": "Brussels (Charleroi)",
+  "destination": "PMI",
+  "destinationName": "Mallorca",
+  "routeGroup": "LEISURE",
+  "tripType": "SUN_BREAK",
+  "upgradeType": "PLUS",
+  "dates": [
+    {
+      "dateOut": "2023-04-01T00:00:00.000",
+      "flights": [
+        {
+          "faresLeft": -1,
+          "flightKey": "FR~7831~ ~~CRL~04/01/2023 17:20~PMI~04/01/2023 19:30~~",
+          "infantsLeft": 16,
+          "regularFare": {
+            "fareKey": "2S4FEWIH7FT3WKLSPKBJKZVY7N2P4DPBDXOCXXVFUUWRMXW6VUGFU2MKQAMY2YXMBI4T4V7537D44EPXROFSS7LI5FE725GL3BT3TNMEAH5LTEJISX572QIMNZEW3JYGBSIUPMCARBEHYDPVDE2Z3C5PTFFAMNHVMNXSTU47AZNEGJBE4BYRQT3D3VSVW3BBI6JPKVLITF64XR5VL75POCKSRWCJYNEAPBPYIEA",
+            "fareClass": "V",
+            "fares": [
+              {
+                "type": "ADT",
+                "amount": 104.99,
+                "count": 1,
+                "hasDiscount": false,
+                "publishedFare": 104.99,
+                "discountInPercent": 0,
+                "hasPromoDiscount": false,
+                "discountAmount": 0.0,
+                "hasBogof": false
+              }
+            ]
+          },
+          "operatedBy": "",
+          "segments": [
+            {
+              "segmentNr": 0,
+              "origin": "CRL",
+              "destination": "PMI",
+              "flightNumber": "FR 7831",
+              "time": ["2023-04-01T17:20:00.000", "2023-04-01T19:30:00.000"],
+              "timeUTC": [
+                "2023-04-01T15:20:00.000Z",
+                "2023-04-01T17:30:00.000Z"
+              ],
+              "duration": "02:10"
+            }
+          ],
+          "flightNumber": "FR 7831",
+          "time": ["2023-04-01T17:20:00.000", "2023-04-01T19:30:00.000"],
+          "timeUTC": ["2023-04-01T15:20:00.000Z", "2023-04-01T17:30:00.000Z"],
+          "duration": "02:10"
+        }
+      ]
+    },
+    { "dateOut": "2023-04-02T00:00:00.000", "flights": [] },
+    {
+      "dateOut": "2023-04-03T00:00:00.000",
+      "flights": [
+        {
+          "faresLeft": 4,
+          "flightKey": "FR~7831~ ~~CRL~04/03/2023 08:55~PMI~04/03/2023 11:05~~",
+          "infantsLeft": 17,
+          "regularFare": {
+            "fareKey": "QKNU3VBTVPDN7DYIBOSBJL5TYID5RSQXPNUYUMLXAX43QJFPFC7Y5OM2XGBDSMOX64GYG45QTRKF6XKM3NMTMYJYMLBCYMMB3JRG54OQ467LBTZZZAFRPNLR63Y5ABJCA4536DHB3QQCAFTAT3XBGI6LAITKUYQCOIQOYEKZF6HZD7IK7R7L3CU7MTUEFILPRF7BJIY5WRTPK3SP5GDQ7WYFU2XFLURJS5NX7ZN4F46EX3G7RTFXW5QZOPM27NWS",
+            "fareClass": "C",
+            "fares": [
+              {
+                "type": "ADT",
+                "amount": 87.24,
+                "count": 1,
+                "hasDiscount": false,
+                "publishedFare": 87.24,
+                "discountInPercent": 0,
+                "hasPromoDiscount": false,
+                "discountAmount": 0.0,
+                "hasBogof": false
+              }
+            ]
+          },
+          "operatedBy": "",
+          "segments": [
+            {
+              "segmentNr": 0,
+              "origin": "CRL",
+              "destination": "PMI",
+              "flightNumber": "FR 7831",
+              "time": ["2023-04-03T08:55:00.000", "2023-04-03T11:05:00.000"],
+              "timeUTC": [
+                "2023-04-03T06:55:00.000Z",
+                "2023-04-03T09:05:00.000Z"
+              ],
+              "duration": "02:10"
+            }
+          ],
+          "flightNumber": "FR 7831",
+          "time": ["2023-04-03T08:55:00.000", "2023-04-03T11:05:00.000"],
+          "timeUTC": ["2023-04-03T06:55:00.000Z", "2023-04-03T09:05:00.000Z"],
+          "duration": "02:10"
+        }
+      ]
+    },
+    {
+      "dateOut": "2023-04-04T00:00:00.000",
+      "flights": [
+        {
+          "faresLeft": 2,
+          "flightKey": "FR~7831~ ~~CRL~04/04/2023 06:35~PMI~04/04/2023 08:45~~",
+          "infantsLeft": 18,
+          "regularFare": {
+            "fareKey": "BHZN743HJWH6BX3NYURSOSESUGFEYCU7GP7JCNQZ2I4SCQ5LUYZQIEK6OVFK6BD566Z2ELVJO5C5JB26JS4Z2CJCBKCRBYLG3H7WW2I2EL4GRWOV5773Y3XRXL3MAW4BKIZMB26N3AMHYGZBYFRD756DBPWA7E4V4PEK6VI2YBXJ7MIBZC4HURL6MRE6THSJCNYSZTLPBCWIRYZSKZ42UMX3ZMQ3UORMTPUG75XPWW2KP4N5WT6J6ET3VEQSLRON",
+            "fareClass": "W",
+            "fares": [
+              {
+                "type": "ADT",
+                "amount": 50.69,
+                "count": 1,
+                "hasDiscount": false,
+                "publishedFare": 50.69,
+                "discountInPercent": 0,
+                "hasPromoDiscount": false,
+                "discountAmount": 0.0,
+                "hasBogof": false
+              }
+            ]
+          },
+          "operatedBy": "",
+          "segments": [
+            {
+              "segmentNr": 0,
+              "origin": "CRL",
+              "destination": "PMI",
+              "flightNumber": "FR 7831",
+              "time": ["2023-04-04T06:35:00.000", "2023-04-04T08:45:00.000"],
+              "timeUTC": [
+                "2023-04-04T04:35:00.000Z",
+                "2023-04-04T06:45:00.000Z"
+              ],
+              "duration": "02:10"
+            }
+          ],
+          "flightNumber": "FR 7831",
+          "time": ["2023-04-04T06:35:00.000", "2023-04-04T08:45:00.000"],
+          "timeUTC": ["2023-04-04T04:35:00.000Z", "2023-04-04T06:45:00.000Z"],
+          "duration": "02:10"
+        }
+      ]
+    },
+    {
+      "dateOut": "2023-04-05T00:00:00.000",
+      "flights": [
+        {
+          "faresLeft": 3,
+          "flightKey": "FR~7831~ ~~CRL~04/05/2023 06:55~PMI~04/05/2023 09:05~~",
+          "infantsLeft": 17,
+          "regularFare": {
+            "fareKey": "NAENFRSGPWMWAHUUV6HRLHB47723PP67Q2S4MPC2SPZCDCDY6TT3OPSRD6ZNA7ASXGRYU5662QFH2TD2SSD6CRBTGR4UCBJSRT7NAFKLAETRJOBMEVTCXUYN7CWYQWQY22LOTNMUI57BLH533WAGXAD4IHQGIGKWIXPY7ETGC3JM5KBTBXYGJLLLENFUKESCVYGZO2OJXTRP24ODXZF34KKDHTQFKLWY4GCSUK5ATZGQZL6IXEXUA7FM4DFSA6DJ",
+            "fareClass": "A",
+            "fares": [
+              {
+                "type": "ADT",
+                "amount": 66.49,
+                "count": 1,
+                "hasDiscount": false,
+                "publishedFare": 66.49,
+                "discountInPercent": 0,
+                "hasPromoDiscount": false,
+                "discountAmount": 0.0,
+                "hasBogof": false
+              }
+            ]
+          },
+          "operatedBy": "",
+          "segments": [
+            {
+              "segmentNr": 0,
+              "origin": "CRL",
+              "destination": "PMI",
+              "flightNumber": "FR 7831",
+              "time": ["2023-04-05T06:55:00.000", "2023-04-05T09:05:00.000"],
+              "timeUTC": [
+                "2023-04-05T04:55:00.000Z",
+                "2023-04-05T07:05:00.000Z"
+              ],
+              "duration": "02:10"
+            }
+          ],
+          "flightNumber": "FR 7831",
+          "time": ["2023-04-05T06:55:00.000", "2023-04-05T09:05:00.000"],
+          "timeUTC": ["2023-04-05T04:55:00.000Z", "2023-04-05T07:05:00.000Z"],
+          "duration": "02:10"
+        }
+      ]
+    },
+    {
+      "dateOut": "2023-04-06T00:00:00.000",
+      "flights": [
+        {
+          "faresLeft": -1,
+          "flightKey": "FR~7831~ ~~CRL~04/06/2023 17:45~PMI~04/06/2023 19:55~~",
+          "infantsLeft": 20,
+          "regularFare": {
+            "fareKey": "AMYVYVOT4S3RDQXE2WLCNOIW3NXWPP43TLI5FB5IZMXURRECHLUBFZMY2TRLQFUTBEV4UQRQGHFJM2IXGNPYGYE3UB2Q4JKENU6UHFE7K6IDIRN5VMFUSHEVQUBF54OI62IHQ27GZUJVICI27GI7BK64JPOTDPL57JIKOUMAHVXU6XVOF6X3ENROTKE4RIZL3POXJRTKRHZW5N7BVVDLXVY5WXFYAEZEKYGF7ZHZ4MLFFP2SVRNBQQGVCAZZ3LEO",
+            "fareClass": "O",
+            "fares": [
+              {
+                "type": "ADT",
+                "amount": 101.39,
+                "count": 1,
+                "hasDiscount": false,
+                "publishedFare": 101.39,
+                "discountInPercent": 0,
+                "hasPromoDiscount": false,
+                "discountAmount": 0.0,
+                "hasBogof": false
+              }
+            ]
+          },
+          "operatedBy": "Lauda Europe",
+          "segments": [
+            {
+              "segmentNr": 0,
+              "origin": "CRL",
+              "destination": "PMI",
+              "flightNumber": "FR 7831",
+              "time": ["2023-04-06T17:45:00.000", "2023-04-06T19:55:00.000"],
+              "timeUTC": [
+                "2023-04-06T15:45:00.000Z",
+                "2023-04-06T17:55:00.000Z"
+              ],
+              "duration": "02:10"
+            }
+          ],
+          "flightNumber": "FR 7831",
+          "time": ["2023-04-06T17:45:00.000", "2023-04-06T19:55:00.000"],
+          "timeUTC": ["2023-04-06T15:45:00.000Z", "2023-04-06T17:55:00.000Z"],
+          "duration": "02:10"
+        }
+      ]
+    },
+    { "dateOut": "2023-04-07T00:00:00.000", "flights": [] }
+  ]
+}
