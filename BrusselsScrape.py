@@ -20,7 +20,7 @@ f = open('/Users/jonasbert/Documents/GitHub/ScrapingProject/brussels.csv', 'w')
 
 #Create the csv writer
 writer = csv.writer(f)
-header = ['Price',"FlightNumber", 'Date of Departure','Date of Arrival','Available seats', 'Arrival Airport code', 'Arrival Airport name', "Departure Airport code", "Departure Airport name","Flight Duration","Scraping date"]
+header = ['Price',"FlightNumber", 'Date of Departure','Date of Arrival','Available seats', 'Arrival Airport code', 'Arrival Airport name', "Departure Airport code", "Departure Airport name","Flight Duration", "Stops", "Scraping date"]
 writer.writerow(header)
 
 #Close the file
@@ -87,12 +87,14 @@ wait = WebDriverWait(driver, 25)
 
 #Actual scraping script
 for destination in destinations:
-        print("Scraping flights for destination: " + destination + "...")
+        print("\nScraping flights for destination: " + destination + "...")
 
         while currentdate < datetime(2023,10,1):
-
-                #Change dynamic XPaths and Selectors
+                print("Scraping flights for date: " + str(currentdate))
+                #Change dynamic XPaths and add timestamp for scraping
                 monthxpath = "//div[@role='option'][normalize-space()='" + currentdate.strftime('%B') + "']"
+                timestamp = datetime.now()
+                print("Scraping timestamp: " + str(timestamp))
 
                 driver.get(url)
                 driver.find_element(By.CSS_SELECTOR, coockieselector).click()
@@ -115,19 +117,47 @@ for destination in destinations:
                 driver.find_element(By.XPATH, confirmdatexpath).click()
                 driver.find_element(By.CSS_SELECTOR, searchselector).click()
 
-                #Iterate over available flights
-                ingo = []
+                # Get names of departure and arrival airports
+                departairport = driver.find_element(By.CSS_SELECTOR, ".departure-city").text
+                print("Departure airport: " + departairport)
+                arrivalairport = driver.find_element(By.CSS_SELECTOR, ".destination-city.ng-star-inserted").text
+                print("Arrival airport: " + arrivalairport)
+
+                # Iterate over available flights
                 accordion = driver.find_element(By.CSS_SELECTOR, accordionselector)
                 for flight in accordion.find_elements(By.TAG_NAME,"refx-upsell-premium-row-pres"):
                         operatedBy = []
                         for airline in flight.find_elements(By.CLASS_NAME, "operating-airline-name"):
                                 operatedBy.append(airline.text)
-                        #Select flights at least operated once by Brussels Airlines
+
+                        # Select flights at least operated once by Brussels Airlines
                         if "Brussels Airlines" in operatedBy:
-                                departtime = flight.find_elements(By.CLASS_NAME, 'refx-display-1 bound-departure-datetime')
-                                print(departtime)
-                                departdatetime = currentdate + timedelta(hours=int(departtime[:2]),minutes=int(departtime[3:2]))
-                                print(departdatetime)
+
+                                # Get datetimes and airports for departure and arrival
+                                for departuredata in flight.find_elements(By.CLASS_NAME, "bound-departure"):
+                                        print(departuredata.text.splitlines())
+                                        departuretime = departuredata.text.splitlines()[0]
+                                        departuredatetime = currentdate + timedelta(hours=int(departuretime[:2]),minutes=int(departuretime[3:5]))
+                                        print("Departure time: " + str(departuredatetime))
+                                        departurecode = departuredata.text.splitlines()[1]
+                                for arrivaldata in flight.find_elements(By.CLASS_NAME, "bound-arrival"):
+                                        print(arrivaldata.text.splitlines())
+                                        arrivaltime = arrivaldata.text.splitlines()[0]
+                                        plusDays = flight.find_elements(By.CLASS_NAME, "refx-caption bound-arrival-day-indicator ng-star-inserted")
+
+                                        arrivaldatetime = currentdate + timedelta(hours=int(arrivaltime[:2]),minutes=int(arrivaltime[3:5]))
+                                        if plusDays != []:
+                                                print("Plus day(s): " + plusDays[0].text)
+                                                arrivaldatetime += timedelta(days=int(plusDays[0].text[1]))
+                                        print(arrivaldatetime)
+                                        arrivalcode = departuredata.text.splitlines()[1]
+                                stops = flight.find_elements(By.CLASS_NAME, "middle-section-container")
+                                if stops != []:
+                                        stops = stops[0].text[0]
+                                        print("Flight has " + stops + " stops")
+                                flightduration = arrivaldatetime - departuredatetime
+
+
                                 for button in flight.find_elements(By.TAG_NAME, "button"):
                                         button.click()
                                 for carousel in accordion.find_elements(By.TAG_NAME,"refx-carousel"):
@@ -135,34 +165,31 @@ for destination in destinations:
                                                 #Select only Economy Classic fare
                                                 if fare.text.splitlines()[1] == "Economy Classic":
                                                         print(fare.text.splitlines())
-                                                        print(flight.find_elements(By.CLASS_NAME, 'refx-display-1 bound-departure-datetime'))
-                                                        departtime = flight.find_elements(By.CLASS_NAME, 'refx-display-1 bound-departure-datetime')[0]
-                                                        departdatetime = currentdate + timedelta(hours=int(departtime[:2]),minutes=int(departtime[3:2]))
-                                                        arrivaltime = flight.find_elements(By.CLASS_NAME, 'refx-display-1 bound-arrival-datetime')[0].text
-                                                        arrivaldatetime = currentdate + timedelta(hours=int(arrivaltime[:2]),minutes=int(arrivaltime[3:2]))
-                                                        daysafter = flight.find_elements(By.CLASS_NAME, 'refx-caption bound-arrival-day-indicator ng-star-inserted')
-                                                        if daysafter != []:
-                                                                arrivaldatetime + timedelta(days=int(daysafter[0][1]))
-                                                        
+
                                                         fareList = []
                                                         fareList.append(fare.text.splitlines()[0])
-                                                        fareList.append(departdatetime)
+                                                        fareList.append("N/A")
+                                                        fareList.append(departuredatetime)
                                                         fareList.append(arrivaldatetime)
                                                         if fare.text.splitlines()[2] == "Rebooking":
                                                                 fareList.append(-1)
                                                         else:
                                                                 fareList.append(int(fare.text.splitlines()[2][0]))
-                                                        fareList.append
+                                                        fareList.append(arrivalcode)
+                                                        fareList.append(arrivalairport)
+                                                        fareList.append(departurecode)
+                                                        fareList.append(departairport)
+                                                        fareList.append(flightduration)
+                                                        fareList.append(stops)
+                                                        fareList.append(str(timestamp))
                                                         with open('/Users/jonasbert/Documents/GitHub/ScrapingProject/brussels.csv', 'a') as f_object:
                                                                 writer_object = csv.writer(f_object)
                                                                 writer_object.writerow(fareList)
                                                                 f_object.close()     
 
-                time.sleep(3600)
-
                 #Adding 1 day to current date
                 currentdate + timedelta(days=1)
-                driver.close()
+        driver.close()
         
 
 
