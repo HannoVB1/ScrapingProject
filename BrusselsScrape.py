@@ -15,10 +15,13 @@ import csv
 import time
 
 # Start date for scraping
-currentdate = datetime(2023,4,3)
+currentdate = datetime(2023,4,1)
+
+# Path of csv
+pathCSV = "/Users/jonasbert/Documents/GitHub/ScrapingProject/brussels.csv"
 
 # Open the file in the write mode
-f = open('/Users/jonasbert/Documents/GitHub/ScrapingProject/brussels.csv', 'w')
+f = open(pathCSV, 'w')
 
 # Create the csv writer
 writer = csv.writer(f)
@@ -77,143 +80,166 @@ options.add_experimental_option("detach", True)
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
 
+triesleft = 5
+
 # Actual scraping script
 for destination in destinations:
         print("\nScraping flights for destination: " + destination + "...")
         while currentdate <= datetime(2023,10,1):
-                driver = webdriver.Chrome(service=driver_service, options=options)
-                stealth(driver,
-                        languages=["en-US", "en"],
-                        vendor="Google Inc.",
-                        platform="Win32",
-                        webgl_vendor="Intel Inc.",
-                        renderer="Intel Iris OpenGL Engine",
-                        fix_hairline=True,
-                        )
-                driver.implicitly_wait(25)
-                wait = WebDriverWait(driver, 25)
+                while True:
+                        try:
+                                driver = webdriver.Chrome(service=driver_service, options=options)
+                                stealth(driver,
+                                        languages=["en-US", "en"],
+                                        vendor="Google Inc.",
+                                        platform="Win32",
+                                        webgl_vendor="Intel Inc.",
+                                        renderer="Intel Iris OpenGL Engine",
+                                        fix_hairline=True,
+                                        )
+                                driver.implicitly_wait(25)
+                                wait = WebDriverWait(driver, 25)
 
-                # Change dynamic XPaths and add timestamp for scraping
-                monthxpath = "//div[@role='option'][normalize-space()='" + currentdate.strftime('%B') + "']"
-                timestamp = datetime.now()
+                                # Change dynamic XPaths and add timestamp for scraping
+                                monthxpath = "//div[@role='option'][normalize-space()='" + currentdate.strftime('%B') + "']"
+                                timestamp = datetime.now()
 
-                driver.get(url)
-                driver.find_element(By.CSS_SELECTOR, coockieselector).click()
-                WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, owselector))).click()
-                driver.find_element(By.XPATH, owxpath).click()
-                driver.find_element(By.XPATH, destxpath).send_keys(destinations[0])
-                time.sleep(1)
-                driver.find_element(By.XPATH, dateselector).click()
-                driver.find_element(By.XPATH, monthselectxpath).click()
-                driver.find_element(By.XPATH, monthxpath).click()
-
-                # Iterate over all cells in calendar table and select cell which corresponds to current date
-                # If no flights are found for a date, the script will move to the next date
-                # If the next date is in a new month, the script will select the new month
-                table = driver.find_element(By.CSS_SELECTOR, tableselector)
-                for row in table.find_elements(By.TAG_NAME,"tr"):
-                        for cell in row.find_elements(By.TAG_NAME,"td"):
-                                if len(cell.text.splitlines()) > 0 and int(cell.text.splitlines()[0]) == currentdate.day:
-                                        #print(len(cell.text.splitlines()))
-                                        if len(cell.text.splitlines()) == 1:
-                                                print("\nNo flights found for date: " + str(currentdate.date()))
-                                                if currentdate.month != (currentdate + timedelta(days=1)).month:
-                                                        driver.find_element(By.XPATH, monthselectxpath).click()
-                                                        monthxpath = "//div[@role='option'][normalize-space()='" + (currentdate + timedelta(days=1)).strftime('%B') + "']"
-                                                        driver.find_element(By.XPATH, monthxpath).click()
-                                                currentdate += timedelta(days=1)
-                                        else:
-                                                print("\nScraping flights for date: " + str(currentdate.date()))
-                                                cell.click()
-                                                break
-
-                driver.find_element(By.XPATH, confirmdatexpath).click()
-                driver.find_element(By.CSS_SELECTOR, searchselector).click()
-
-                # Get names of departure and arrival airports
-                departairport = driver.find_element(By.CSS_SELECTOR, ".departure-city").text
-                print("Departure airport: " + departairport)
-                arrivalairport = driver.find_element(By.CSS_SELECTOR, ".destination-city.ng-star-inserted").text
-                print("Arrival airport: " + arrivalairport)
-
-                # Iterate over opened details for flight number
-                detailIteration = -1
-                accordion = driver.find_element(By.CSS_SELECTOR, accordionselector)
-
-                for flight in accordion.find_elements(By.TAG_NAME,"refx-upsell-premium-row-pres"):
-                        operatedBy = []
-                        for airline in flight.find_elements(By.CLASS_NAME, "operating-airline-name"):
-                                operatedBy.append(airline.text)
-
-                        # Select flights at least operated once by Brussels Airlines
-                        if "Brussels Airlines" in operatedBy:
-
-                                # Get datetimes and airports for departure and arrival
-                                for departuredata in flight.find_elements(By.CLASS_NAME, "bound-departure"):
-                                        print('\n')
-                                        print(departuredata.text.splitlines())
-                                        departuretime = departuredata.text.splitlines()[0]
-                                        departuredatetime = currentdate + timedelta(hours=int(departuretime[:2]),minutes=int(departuretime[3:5]))
-                                        print("Departure time: " + str(departuredatetime))
-                                        departurecode = departuredata.text.splitlines()[1]
-                                for arrivaldata in flight.find_elements(By.CLASS_NAME, "bound-arrival"):
-                                        print(arrivaldata.text.splitlines())
-                                        arrivaltime = arrivaldata.text.splitlines()[0]
-                                        arrivaldatetime = currentdate + timedelta(hours=int(arrivaltime[:2]),minutes=int(arrivaltime[3:5]))
-                                        if arrivaldatetime <= departuredatetime:
-                                                arrivaldatetime += timedelta(days=1)
-                                        print("Arrival time: " + str(arrivaldatetime))
-                                        arrivalcode = arrivaldata.text.splitlines()[1]
-                                for details in flight.find_elements(By.TAG_NAME, "a"):
-                                        detailIteration += 1
-                                        details.click()
-                                        flightDetails = driver.find_element(By.CSS_SELECTOR, "#mat-dialog-" + str(detailIteration))
-                                        for flightNumberDetails in flightDetails.find_elements(By.TAG_NAME, "refx-segment-details-pres"):
-                                                flightNumberDetailsArray = flightNumberDetails.text.splitlines()[7]
-                                                if flightNumberDetailsArray.split()[4] == 'Brussels':
-                                                        flightNumber = flightNumberDetailsArray.split()[0] + flightNumberDetailsArray.split()[1]
-                                                        print("Flight number operated by Brussels Airlines: " + flightNumber)
-                                        webdriver.ActionChains(driver).send_keys(Keys.ESCAPE).perform()
-                                stops = flight.find_elements(By.CLASS_NAME, "middle-section-container")
-                                if stops != []:
-                                        stops = stops[0].text[0]
-                                        if int(stops) == 1:
-                                                print("Flight has 1 stop")
-                                        else:
-                                                print("Flight has " + stops + " stops")
-                                flightduration = arrivaldatetime - departuredatetime
-
-
-                                button = flight.find_elements(By.TAG_NAME, "button")[0]
+                                driver.get(url)
+                                driver.find_element(By.CSS_SELECTOR, coockieselector).click()
+                                WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, owselector))).click()
+                                driver.find_element(By.XPATH, owxpath).click()
+                                driver.find_element(By.XPATH, destxpath).send_keys(destinations[0])
                                 time.sleep(1)
-                                button.click()
-                                for carousel in flight.find_elements(By.TAG_NAME,"refx-carousel"):
-                                        for fare in carousel.find_elements(By.TAG_NAME,"refx-fare-card"):
-                                                # Select only Economy Classic fare
-                                                if fare.text.splitlines()[1] == "Economy Classic":
-                                                        print(fare.text.splitlines())
-                                                        fareList = []
-                                                        fareList.append(fare.text.splitlines()[0])
-                                                        fareList.append(flightNumber)
-                                                        fareList.append(departuredatetime)
-                                                        fareList.append(arrivaldatetime)
-                                                        if fare.text.splitlines()[2] == "Rebooking":
-                                                                fareList.append(-1)
+                                driver.find_element(By.XPATH, dateselector).click()
+                                driver.find_element(By.XPATH, monthselectxpath).click()
+                                driver.find_element(By.XPATH, monthxpath).click()
+
+                                # Iterate over all cells in calendar table and select cell which corresponds to current date
+                                # If no flights are found for a date, the script will move to the next date
+                                # If the next date is in a new month, the script will select the new month
+                                table = driver.find_element(By.CSS_SELECTOR, tableselector)
+                                for row in table.find_elements(By.TAG_NAME,"tr"):
+                                        for cell in row.find_elements(By.TAG_NAME,"td"):
+                                                if len(cell.text.splitlines()) > 0 and int(cell.text.splitlines()[0]) == currentdate.day:
+                                                        #print(len(cell.text.splitlines()))
+                                                        if len(cell.text.splitlines()) == 1:
+                                                                print("\nNo flights found for date: " + str(currentdate.date()))
+                                                                if currentdate.month != (currentdate + timedelta(days=1)).month:
+                                                                        driver.find_element(By.XPATH, monthselectxpath).click()
+                                                                        monthxpath = "//div[@role='option'][normalize-space()='" + (currentdate + timedelta(days=1)).strftime('%B') + "']"
+                                                                        driver.find_element(By.XPATH, monthxpath).click()
+                                                                currentdate += timedelta(days=1)
                                                         else:
-                                                                fareList.append(int(fare.text.splitlines()[2][0]))
-                                                        fareList.append(arrivalcode)
-                                                        fareList.append(arrivalairport)
-                                                        fareList.append(departurecode)
-                                                        fareList.append(departairport)
-                                                        fareList.append(flightduration)
-                                                        fareList.append(stops)
-                                                        fareList.append(str(timestamp))
-                                                        with open('/Users/jonasbert/Documents/GitHub/ScrapingProject/brussels.csv', 'a') as f_object:
-                                                                writer_object = csv.writer(f_object)
-                                                                writer_object.writerow(fareList)
-                                                                f_object.close()   
-                                        button.click()  
-                
-                # Adding 1 day to current date
-                currentdate += timedelta(days=1)
-                driver.close()
+                                                                print("\nScraping flights for date: " + str(currentdate.date()))
+                                                                cell.click()
+                                                                break
+
+                                driver.find_element(By.XPATH, confirmdatexpath).click()
+                                driver.find_element(By.CSS_SELECTOR, searchselector).click()
+
+                                # Get names of departure and arrival airports
+                                departairport = driver.find_element(By.CSS_SELECTOR, ".departure-city").text
+                                print("Departure airport: " + departairport)
+                                arrivalairport = driver.find_element(By.CSS_SELECTOR, ".destination-city.ng-star-inserted").text
+                                print("Arrival airport: " + arrivalairport)
+
+                                # Iterate over opened details for flight number
+                                detailIteration = -1
+                                accordion = driver.find_element(By.CSS_SELECTOR, accordionselector)
+
+                                for flight in accordion.find_elements(By.TAG_NAME,"refx-upsell-premium-row-pres"):
+                                        operatedBy = []
+                                        for airline in flight.find_elements(By.CLASS_NAME, "operating-airline-name"):
+                                                operatedBy.append(airline.text)
+
+                                        # Select flights at least operated once by Brussels Airlines
+                                        if "Brussels Airlines" in operatedBy:
+
+                                                # Get datetimes and airports for departure and arrival
+                                                for departuredata in flight.find_elements(By.CLASS_NAME, "bound-departure"):
+                                                        print('\n')
+                                                        print(departuredata.text.splitlines())
+                                                        departuretime = departuredata.text.splitlines()[0]
+                                                        departuredatetime = currentdate + timedelta(hours=int(departuretime[:2]),minutes=int(departuretime[3:5]))
+                                                        print("Departure time: " + str(departuredatetime))
+                                                        departurecode = departuredata.text.splitlines()[1]
+                                                for arrivaldata in flight.find_elements(By.CLASS_NAME, "bound-arrival"):
+                                                        print(arrivaldata.text.splitlines())
+                                                        arrivaltime = arrivaldata.text.splitlines()[0]
+                                                        arrivaldatetime = currentdate + timedelta(hours=int(arrivaltime[:2]),minutes=int(arrivaltime[3:5]))
+                                                        if arrivaldatetime <= departuredatetime:
+                                                                arrivaldatetime += timedelta(days=1)
+                                                        print("Arrival time: " + str(arrivaldatetime))
+                                                        arrivalcode = arrivaldata.text.splitlines()[1]
+                                                for details in flight.find_elements(By.TAG_NAME, "a"):
+                                                        detailIteration += 1
+                                                        details.click()
+                                                        flightDetails = driver.find_element(By.CSS_SELECTOR, "#mat-dialog-" + str(detailIteration))
+                                                        for flightNumberDetails in flightDetails.find_elements(By.TAG_NAME, "refx-segment-details-pres"):
+                                                                flightNumberDetailsArray = flightNumberDetails.text.splitlines()[7]
+                                                                if len(flightNumberDetailsArray.split()) != 6:
+                                                                        continue
+                                                                if flightNumberDetailsArray.split()[4] == 'Brussels':
+                                                                        flightNumber = flightNumberDetailsArray.split()[0] + flightNumberDetailsArray.split()[1]
+                                                                        print("Flight number operated by Brussels Airlines: " + flightNumber)
+                                                                        break
+                                                        webdriver.ActionChains(driver).send_keys(Keys.ESCAPE).perform()
+                                                stops = flight.find_elements(By.CLASS_NAME, "middle-section-container")
+                                                if stops != []:
+                                                        stops = stops[0].text[0]
+                                                        if int(stops) == 1:
+                                                                print("Flight has 1 stop")
+                                                        else:
+                                                                print("Flight has " + stops + " stops")
+                                                flightduration = arrivaldatetime - departuredatetime
+
+
+                                                button = flight.find_elements(By.TAG_NAME, "button")[0]
+                                                time.sleep(1)
+                                                button.click()
+                                                for carousel in flight.find_elements(By.TAG_NAME,"refx-carousel"):
+                                                        for fare in carousel.find_elements(By.TAG_NAME,"refx-fare-card"):
+                                                                # Select only Economy Classic fare
+                                                                if fare.text.splitlines()[1] == "Economy Classic":
+                                                                        print(fare.text.splitlines())
+                                                                        fareList = []
+                                                                        fareList.append(fare.text.splitlines()[0])
+                                                                        fareList.append(flightNumber)
+                                                                        fareList.append(departuredatetime)
+                                                                        fareList.append(arrivaldatetime)
+                                                                        if fare.text.splitlines()[2] == "Rebooking":
+                                                                                fareList.append(-1)
+                                                                        else:
+                                                                                fareList.append(int(fare.text.splitlines()[2][0]))
+                                                                        fareList.append(arrivalcode)
+                                                                        fareList.append(arrivalairport)
+                                                                        fareList.append(departurecode)
+                                                                        fareList.append(departairport)
+                                                                        fareList.append(flightduration)
+                                                                        fareList.append(stops)
+                                                                        fareList.append(str(timestamp))
+                                                                        with open(pathCSV, 'a') as f_object:
+                                                                                writer_object = csv.writer(f_object)
+                                                                                writer_object.writerow(fareList)
+                                                                                f_object.close()   
+                                                        button.click()  
+                                
+                                # Adding 1 day to current date
+                                currentdate += timedelta(days=1)
+                                driver.close()
+                        except TimeoutException:
+                                error = driver.find_element(By.XPATH, errorxpath)
+                                print("A time-out occurred for some reason while scraping: \n" + str(error))
+                                print("Retrying...")
+                                driver.close()
+                                continue
+                        except:
+                                print("Another unknown error fucked up the process")
+                                driver.close()
+                                if triesleft != 0:
+                                        print('Retrying...')
+                                        print('Tries left: ' + str(triesleft))
+                                        continue
+                                else:
+                                        break
+                        break
