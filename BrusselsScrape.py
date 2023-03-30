@@ -114,15 +114,16 @@ for destination in destinations:
                 for row in table.find_elements(By.TAG_NAME,"tr"):
                         for cell in row.find_elements(By.TAG_NAME,"td"):
                                 if len(cell.text.splitlines()) > 0 and int(cell.text.splitlines()[0]) == currentdate.day:
+                                        #print(len(cell.text.splitlines()))
                                         if len(cell.text.splitlines()) == 1:
-                                                print("No flights found for date: " + str(currentdate))
+                                                print("\nNo flights found for date: " + str(currentdate.date()))
                                                 if currentdate.month != (currentdate + timedelta(days=1)).month:
                                                         driver.find_element(By.XPATH, monthselectxpath).click()
                                                         monthxpath = "//div[@role='option'][normalize-space()='" + (currentdate + timedelta(days=1)).strftime('%B') + "']"
                                                         driver.find_element(By.XPATH, monthxpath).click()
                                                 currentdate += timedelta(days=1)
                                         else:
-                                                print("\nScraping flights for date: " + str(currentdate))
+                                                print("\nScraping flights for date: " + str(currentdate.date()))
                                                 cell.click()
                                                 break
 
@@ -135,12 +136,11 @@ for destination in destinations:
                 arrivalairport = driver.find_element(By.CSS_SELECTOR, ".destination-city.ng-star-inserted").text
                 print("Arrival airport: " + arrivalairport)
 
-                # Iterate over available flights
-                iteration = -1
+                # Iterate over opened details for flight number
+                detailIteration = -1
                 accordion = driver.find_element(By.CSS_SELECTOR, accordionselector)
 
                 for flight in accordion.find_elements(By.TAG_NAME,"refx-upsell-premium-row-pres"):
-                        iteration += 1
                         operatedBy = []
                         for airline in flight.find_elements(By.CLASS_NAME, "operating-airline-name"):
                                 operatedBy.append(airline.text)
@@ -165,8 +165,9 @@ for destination in destinations:
                                         print("Arrival time: " + str(arrivaldatetime))
                                         arrivalcode = arrivaldata.text.splitlines()[1]
                                 for details in flight.find_elements(By.TAG_NAME, "a"):
+                                        detailIteration += 1
                                         details.click()
-                                        flightDetails = driver.find_element(By.CSS_SELECTOR, "#mat-dialog-" + str(iteration))
+                                        flightDetails = driver.find_element(By.CSS_SELECTOR, "#mat-dialog-" + str(detailIteration))
                                         for flightNumberDetails in flightDetails.find_elements(By.TAG_NAME, "refx-segment-details-pres"):
                                                 flightNumberDetailsArray = flightNumberDetails.text.splitlines()[7]
                                                 if flightNumberDetailsArray.split()[4] == 'Brussels':
@@ -190,7 +191,7 @@ for destination in destinations:
                                         for fare in carousel.find_elements(By.TAG_NAME,"refx-fare-card"):
                                                 # Select only Economy Classic fare
                                                 if fare.text.splitlines()[1] == "Economy Classic":
-                                                        print(fare.text.splitlines() + '\n')
+                                                        print(fare.text.splitlines())
                                                         fareList = []
                                                         fareList.append(fare.text.splitlines()[0])
                                                         fareList.append(flightNumber)
